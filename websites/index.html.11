@@ -22,7 +22,7 @@
 <link rel="alternate" type="application/rss+xml" title="Novel Updates &raquo; Comments Feed" href="https://www.novelupdates.com/comments/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Novel Updates &raquo; Good Morning, Miss Ghost Comments Feed" href="https://www.novelupdates.com/series/good-morning-miss-ghost/feed/" />
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.novelupdates.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.novelupdates.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.2"}};
 			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script>
 		<style type="text/css">
@@ -39,16 +39,17 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel='stylesheet' id='theme-my-login-css'  href='https://www.novelupdates.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.4.9' type='text/css' media='all' />
-<link rel='stylesheet' id='bbspoiler-css'  href='https://www.novelupdates.com/wp-content/plugins/bbspoiler/inc/bbspoiler.css?ver=4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://www.novelupdates.com/wp-includes/css/dashicons.min.css?ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='https://www.novelupdates.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.4.10' type='text/css' media='all' />
+<link rel='stylesheet' id='bbspoiler-css'  href='https://www.novelupdates.com/wp-content/plugins/bbspoiler/inc/bbspoiler.css?ver=4.9.2' type='text/css' media='all' />
 <link rel='stylesheet' id='yasrcss-css'  href='https://www.novelupdates.com/wp-content/plugins/yet-another-stars-rating/css/yasr.css' type='text/css' media='all' />
 <link rel='stylesheet' id='yasrcsslightscheme-css'  href='https://www.novelupdates.com/wp-content/plugins/yet-another-stars-rating/css/yasr-table-light.css' type='text/css' media='all' />
 <link rel='stylesheet' id='breadcrumbs-nu-css'  href='https://www.novelupdates.com/wp-content/themes/ndupdates-child/js/breadcrumbs.css?ver=1.1.4' type='text/css' media='' />
 <link rel='stylesheet' id='pagination-nu-css'  href='//cdn.novelupdates.com/js/pg/pagination.css?ver=1.0.9' type='text/css' media='' />
 <link rel='stylesheet' id='com_mce-css'  href='//cdn.novelupdates.com/js/com_mce.css?ver=1.0.1' type='text/css' media='' />
 <link rel='stylesheet' id='ajax-search-posts-css-css'  href='//cdn.novelupdates.com/js/ajax_search.post.css?ver=1.0.4' type='text/css' media='' />
-<link rel='stylesheet' id='us-font-1-css'  href='https://fonts.googleapis.com/css?family=Noto+Sans%3A300%2C400%2C700&#038;subset=latin&#038;ver=4.9' type='text/css' media='all' />
-<link rel='stylesheet' id='us-font-2-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C400italic%2C700%2C700italic%2C300&#038;subset=latin&#038;ver=4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='us-font-1-css'  href='https://fonts.googleapis.com/css?family=Noto+Sans%3A300%2C400%2C700&#038;subset=latin&#038;ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='us-font-2-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C400italic%2C700%2C700italic%2C300&#038;subset=latin&#038;ver=4.9.2' type='text/css' media='all' />
 <link rel='stylesheet' id='us-motioncss-css'  href='https://www.novelupdates.com/wp-content/themes/ndupdates/css/motioncss.css?ver=3.61' type='text/css' media='all' />
 <link rel='stylesheet' id='us-motioncss-responsive-css'  href='https://www.novelupdates.com/wp-content/themes/ndupdates/css/motioncss-responsive.css?ver=3.61' type='text/css' media='all' />
 <link rel='stylesheet' id='us-font-awesome-css'  href='https://www.novelupdates.com/wp-content/themes/ndupdates/css/font-awesome.css?ver=4.3.0' type='text/css' media='all' />
@@ -61,11 +62,11 @@ img.emoji {
 var title = {"unfolded":"Expand","folded":"Collapse"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://www.novelupdates.com/wp-content/plugins/bbspoiler/inc/bbspoiler.js?ver=4.9'></script>
-<script type='text/javascript' src="https://forum.novelupdates.com/api/index.php?assets/sdk&#038;prefix=xfac&#038;ver=4.9"></script>
-<script type='text/javascript' src='https://www.novelupdates.com/wp-content/plugins/xenforo-api-consumer/js/script.js?ver=4.9'></script>
-<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?hl=en-US&#038;ver=4.9'></script>
-<script type='text/javascript' src='https://www.novelupdates.com/wp-content/plugins/theme-my-login/modules/themed-profiles/themed-profiles.js?ver=4.9'></script>
+<script type='text/javascript' src='https://www.novelupdates.com/wp-content/plugins/bbspoiler/inc/bbspoiler.js?ver=4.9.2'></script>
+<script type='text/javascript' src="https://forum.novelupdates.com/api/index.php?assets/sdk&#038;prefix=xfac&#038;ver=4.9.2"></script>
+<script type='text/javascript' src='https://www.novelupdates.com/wp-content/plugins/xenforo-api-consumer/js/script.js?ver=4.9.2'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?hl=en-US&#038;ver=4.9.2'></script>
+<script type='text/javascript' src='https://www.novelupdates.com/wp-content/plugins/theme-my-login/modules/themed-profiles/themed-profiles.js?ver=4.9.2'></script>
 <script type='text/javascript' src='https://www.novelupdates.com/wp-content/themes/ndupdates-child/js/cookieconsent.min.js?ver=1.0.1'></script>
 <script type='text/javascript' src='https://www.novelupdates.com/wp-content/themes/ndupdates-child/js/jquery.tablesorter.min.js?ver=1.0.1'></script>
 <script type='text/javascript' src='//cdn.novelupdates.com/js/popoverlay/jquery.popupoverlay.js?ver=1.0.1'></script>
@@ -85,7 +86,7 @@ var title = {"unfolded":"Expand","folded":"Collapse"};
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.novelupdates.com/wp-includes/wlwmanifest.xml" /> 
 <link rel='prev' title='Immortal Sword Master' href='https://www.novelupdates.com/series/immortal-sword-master/' />
 <link rel='next' title='Strongest Abandoned Son' href='https://www.novelupdates.com/series/strongest-abandoned-son/' />
-<meta name="generator" content="WordPress 4.9" />
+<meta name="generator" content="WordPress 4.9.2" />
 <link rel="canonical" href="https://www.novelupdates.com/series/good-morning-miss-ghost/" />
 <link rel='shortlink' href='https://www.novelupdates.com/?p=9364' />
 <link rel="alternate" type="application/json+oembed" href="https://www.novelupdates.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.novelupdates.com%2Fseries%2Fgood-morning-miss-ghost%2F" />
@@ -1375,19 +1376,19 @@ Not to be used with: Male Protagonist" >Female Protagonist</a> <a class="genre o
 [<i>Tags Hidden</i>]
 </div>
 
-<h5 class="seriesother">Rating<span class="uvotes">(4.6 / 5.0, 89 votes)</span></h5>
+<h5 class="seriesother">Rating<span class="uvotes">(4.6 / 5.0, 96 votes)</span></h5>
 <table cellspacing="1" cellpadding="0" border="0" id="myrates">
 <tbody><tr>
  <td>5&nbsp;&nbsp;</td>
- <td><span class="rating" style="width:41.5%; background-color: #00FF00"></span><span class="votetext">&nbsp;83% (74 votes)</span></td>
+ <td><span class="rating" style="width:41%; background-color: #00FF00"></span><span class="votetext">&nbsp;82% (79 votes)</span></td>
 </tr>
 <tr>
  <td>4&nbsp;&nbsp;</td>
- <td><span class="rating" style="width:4.5%; background-color: #66FF00"></span><span class="votetext">&nbsp;9% (8 votes)</span></td>
+ <td><span class="rating" style="width:4.5%; background-color: #66FF00"></span><span class="votetext">&nbsp;9% (9 votes)</span></td>
 </tr>
 <tr>
  <td>3&nbsp;&nbsp;</td>
- <td><span class="rating" style="width:1%; background-color: #CCFF00"></span><span class="votetext">&nbsp;2% (2 votes)</span></td>
+ <td><span class="rating" style="width:1.5%; background-color: #CCFF00"></span><span class="votetext">&nbsp;3% (3 votes)</span></td>
 </tr>
 <tr>
  <td>2&nbsp;&nbsp;</td>
@@ -1395,7 +1396,7 @@ Not to be used with: Male Protagonist" >Female Protagonist</a> <a class="genre o
 </tr>
 <tr>
  <td>1&nbsp;&nbsp;</td>
- <td><span class="rating" style="width:3%; background-color: #FF6600"></span><span class="votetext">&nbsp;6% (5 votes)</span></td>
+ <td><span class="rating" style="width:2.5%; background-color: #FF6600"></span><span class="votetext">&nbsp;5% (5 votes)</span></td>
 </tr>
 </tbody></table>
 
@@ -1453,15 +1454,15 @@ No</div>
 <span class="seriesna">N/A</span></div>
 
 <h5 class="seriesother">Release Frequency</h5>
-Every 17.5 Day(s)
+Every 1.1 Day(s)
 
-<h5 class="seriesother">Activity Stats <div class="edit">[<span class="editme"><a href="//www.novelupdates.com/rank-graph/?pid=9364">Graph</a></span>]</div></h5>Weekly Rank: <span class="userrate rank">#469</span><br>Monthly Rank: <span class="userrate rank">#902</span><br>All Time Rank: <span class="userrate rank">#718</span><br>
+<h5 class="seriesother">Activity Stats <div class="edit">[<span class="editme"><a href="//www.novelupdates.com/rank-graph/?pid=9364">Graph</a></span>]</div></h5>Weekly Rank: <span class="userrate rank">#340</span><br>Monthly Rank: <span class="userrate rank">#362</span><br>All Time Rank: <span class="userrate rank">#700</span><br>
 <h5 class="seriesother">Reading List <div class="edit">[<span class="editme"><a href="//www.novelupdates.com/rank-graph/?pid=9364">Graph</a></span>]</div></h5>
 
 
-On <b class="rlist">1563</b> Reading Lists
+On <b class="rlist">1678</b> Reading Lists
 
-<br>Monthly Rank: <span class="userrate rank">#936</span><br>All Time Rank: <span class="userrate rank">#1114</span>
+<br>Monthly Rank: <span class="userrate rank">#441</span><br>All Time Rank: <span class="userrate rank">#1065</span>
 
 </div> 
 	</div> 
@@ -1484,7 +1485,7 @@ On <b class="rlist">1563</b> Reading Lists
 <span itemprop="name">Good Morning, Miss Ghost</span>
 <span itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating"> average rating 
 <span itemprop="ratingValue">4.6</span>/<span itemprop="bestRating">5</span> - 
-<span itemprop="ratingCount">89</span> user ratings</span></div>
+<span itemprop="ratingCount">96</span> user ratings</span></div>
 <h5 class="seriesother associated">Associated Names</h5>
 <span class="editmsg">One entry per line</span>
 <div id="editassociated">Chào Buổi Sáng, U Linh Tiểu Thư <br>We Have Very Few Friends (大家的朋友都很少)<br>早安，幽靈小姐<br>榛子与贞子 《Zhēnzi (Hazelnut) and Zhēnzi (Chastity)》</div>
@@ -1504,7 +1505,7 @@ On <b class="rlist">1563</b> Reading Lists
 
 <div style="padding-top:20px;"><h4 class="seriesother" style="display:inline;"><span class="nuf_link" title="No Discussion Link"><i class="fa fa-comments" style="color:rgb(155, 155, 155); position: relative; top: -4px; font-size:18px;"></i></span>Latest Release </h4>
 <span class="extra_chp_icons" style="float:right;">
-		
+		<a href="https://www.novelupdates.com/series/good-morning-miss-ghost/?grr=1" title="[1] group(s) hidden due to dead links. Click to show all releases."><i class="fa fa-eye chp" aria-hidden="true"></i></a>
 		<span class="my_popupfilter_open" title="Group filtering" onclick="lst_allgroupstwo();"><i class="fa fa-filter chp" aria-hidden="true"></i></span>
 		<span class="my_popupreading_open" title="Show all chapters" onclick="list_allchpstwo();"><i class="fa fa-bars chp" aria-hidden="true"></i></span>
 		</span></div>
@@ -1520,6 +1521,42 @@ On <b class="rlist">1563</b> Reading Lists
 	<tbody>
         
                   
+                
+    <tr>
+	<td width="20%" style="padding-left:5px;">02/09/18</td>
+    <td width="45%">
+	<a href="https://www.novelupdates.com/group/its-so-fluffy-translations/">It&#8217;s So Fluffy!!!...</a>    </td>
+    <td width="20%">
+	<a title="c58 part1" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1236103/" rel="nofollow">c58 part1</a><a title="c58 part1" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1236104/" rel="nofollow">c58 part1</a>    </td>
+	</tr>
+                
+                
+    <tr>
+	<td width="20%" style="padding-left:5px;">02/08/18</td>
+    <td width="45%">
+	<a href="https://www.novelupdates.com/group/its-so-fluffy-translations/">It&#8217;s So Fluffy!!!...</a>    </td>
+    <td width="20%">
+	<a title="c57 part2" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1232837/" rel="nofollow">c57 part2</a><a title="c57 part2" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1232838/" rel="nofollow">c57 part2</a>    </td>
+	</tr>
+                
+                
+    <tr>
+	<td width="20%" style="padding-left:5px;">02/06/18</td>
+    <td width="45%">
+	<a href="https://www.novelupdates.com/group/its-so-fluffy-translations/">It&#8217;s So Fluffy!!!...</a>    </td>
+    <td width="20%">
+	<a title="c57 part1" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1226392/" rel="nofollow">c57 part1</a><a title="c57 part1" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1226393/" rel="nofollow">c57 part1</a>    </td>
+	</tr>
+                
+                
+    <tr>
+	<td width="20%" style="padding-left:5px;">02/02/18</td>
+    <td width="45%">
+	<a href="https://www.novelupdates.com/group/its-so-fluffy-translations/">It&#8217;s So Fluffy!!!...</a>    </td>
+    <td width="20%">
+	<a title="c56" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1213600/" rel="nofollow">c56</a><a title="c56" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1213601/" rel="nofollow">c56</a>    </td>
+	</tr>
+                
                 
     <tr>
 	<td width="20%" style="padding-left:5px;">01/22/18</td>
@@ -1549,110 +1586,74 @@ On <b class="rlist">1563</b> Reading Lists
                 
                 
     <tr>
-	<td width="20%" style="padding-left:5px;">09/19/17</td>
+	<td width="20%" style="padding-left:5px;">02/01/18</td>
     <td width="45%">
-	<a href="https://www.novelupdates.com/group/novitranslation/">Novitranslation</a>    </td>
+	<a href="https://www.novelupdates.com/group/its-so-fluffy-translations/">It&#8217;s So Fluffy!!!...</a>    </td>
     <td width="20%">
-	<a title="c53.1" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/908711/" rel="nofollow">c53.1</a><a title="c53.1" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/908712/" rel="nofollow">c53.1</a>    </td>
+	<a title="c52" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1213217/" rel="nofollow">c52</a><a title="c52" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1213218/" rel="nofollow">c52</a>    </td>
 	</tr>
                 
                 
     <tr>
-	<td width="20%" style="padding-left:5px;">08/19/17</td>
+	<td width="20%" style="padding-left:5px;">02/01/18</td>
     <td width="45%">
-	<a href="https://www.novelupdates.com/group/novitranslation/">Novitranslation</a>    </td>
+	<a href="https://www.novelupdates.com/group/its-so-fluffy-translations/">It&#8217;s So Fluffy!!!...</a>    </td>
     <td width="20%">
-	<a title="c52" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/853088/" rel="nofollow">c52</a><a title="c52" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/853089/" rel="nofollow">c52</a>    </td>
+	<a title="c51" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1213182/" rel="nofollow">c51</a><a title="c51" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1213183/" rel="nofollow">c51</a>    </td>
 	</tr>
                 
                 
     <tr>
-	<td width="20%" style="padding-left:5px;">08/13/17</td>
+	<td width="20%" style="padding-left:5px;">02/01/18</td>
     <td width="45%">
-	<a href="https://www.novelupdates.com/group/novitranslation/">Novitranslation</a>    </td>
+	<a href="https://www.novelupdates.com/group/its-so-fluffy-translations/">It&#8217;s So Fluffy!!!...</a>    </td>
     <td width="20%">
-	<a title="c51" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/841551/" rel="nofollow">c51</a><a title="c51" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/841552/" rel="nofollow">c51</a>    </td>
+	<a title="c50" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1213181/" rel="nofollow">c50</a><a title="c50" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1213182/" rel="nofollow">c50</a>    </td>
 	</tr>
                 
                 
     <tr>
-	<td width="20%" style="padding-left:5px;">08/02/17</td>
+	<td width="20%" style="padding-left:5px;">02/01/18</td>
     <td width="45%">
-	<a href="https://www.novelupdates.com/group/novitranslation/">Novitranslation</a>    </td>
+	<a href="https://www.novelupdates.com/group/its-so-fluffy-translations/">It&#8217;s So Fluffy!!!...</a>    </td>
     <td width="20%">
-	<a title="c50" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/820834/" rel="nofollow">c50</a><a title="c50" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/820835/" rel="nofollow">c50</a>    </td>
+	<a title="c49" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1213180/" rel="nofollow">c49</a><a title="c49" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1213181/" rel="nofollow">c49</a>    </td>
 	</tr>
                 
                 
     <tr>
-	<td width="20%" style="padding-left:5px;">07/05/17</td>
+	<td width="20%" style="padding-left:5px;">02/01/18</td>
     <td width="45%">
-	<a href="https://www.novelupdates.com/group/novitranslation/">Novitranslation</a>    </td>
+	<a href="https://www.novelupdates.com/group/its-so-fluffy-translations/">It&#8217;s So Fluffy!!!...</a>    </td>
     <td width="20%">
-	<a title="c49" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/756708/" rel="nofollow">c49</a><a title="c49" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/756709/" rel="nofollow">c49</a>    </td>
+	<a title="c48" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1213179/" rel="nofollow">c48</a><a title="c48" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1213180/" rel="nofollow">c48</a>    </td>
 	</tr>
                 
                 
     <tr>
-	<td width="20%" style="padding-left:5px;">06/25/17</td>
+	<td width="20%" style="padding-left:5px;">02/01/18</td>
     <td width="45%">
-	<a href="https://www.novelupdates.com/group/novitranslation/">Novitranslation</a>    </td>
+	<a href="https://www.novelupdates.com/group/its-so-fluffy-translations/">It&#8217;s So Fluffy!!!...</a>    </td>
     <td width="20%">
-	<a title="c48" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/723482/" rel="nofollow">c48</a><a title="c48" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/723483/" rel="nofollow">c48</a>    </td>
+	<a title="c47" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1213178/" rel="nofollow">c47</a><a title="c47" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1213179/" rel="nofollow">c47</a>    </td>
 	</tr>
                 
                 
     <tr>
-	<td width="20%" style="padding-left:5px;">06/03/17</td>
+	<td width="20%" style="padding-left:5px;">02/01/18</td>
     <td width="45%">
-	<a href="https://www.novelupdates.com/group/novitranslation/">Novitranslation</a>    </td>
+	<a href="https://www.novelupdates.com/group/its-so-fluffy-translations/">It&#8217;s So Fluffy!!!...</a>    </td>
     <td width="20%">
-	<a title="c47" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/675591/" rel="nofollow">c47</a><a title="c47" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/675592/" rel="nofollow">c47</a>    </td>
+	<a title="c46" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1213215/" rel="nofollow">c46</a><a title="c46" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1213216/" rel="nofollow">c46</a>    </td>
 	</tr>
                 
                 
     <tr>
-	<td width="20%" style="padding-left:5px;">05/30/17</td>
+	<td width="20%" style="padding-left:5px;">02/01/18</td>
     <td width="45%">
-	<a href="https://www.novelupdates.com/group/novitranslation/">Novitranslation</a>    </td>
+	<a href="https://www.novelupdates.com/group/its-so-fluffy-translations/">It&#8217;s So Fluffy!!!...</a>    </td>
     <td width="20%">
-	<a title="c46" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/666434/" rel="nofollow">c46</a><a title="c46" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/666435/" rel="nofollow">c46</a>    </td>
-	</tr>
-                
-                
-    <tr>
-	<td width="20%" style="padding-left:5px;">05/28/17</td>
-    <td width="45%">
-	<a href="https://www.novelupdates.com/group/novitranslation/">Novitranslation</a>    </td>
-    <td width="20%">
-	<a title="c45" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/660640/" rel="nofollow">c45</a><a title="c45" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/660641/" rel="nofollow">c45</a>    </td>
-	</tr>
-                
-                
-    <tr>
-	<td width="20%" style="padding-left:5px;">05/25/17</td>
-    <td width="45%">
-	<a href="https://www.novelupdates.com/group/novitranslation/">Novitranslation</a>    </td>
-    <td width="20%">
-	<a title="c44" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/655604/" rel="nofollow">c44</a><a title="c44" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/655605/" rel="nofollow">c44</a>    </td>
-	</tr>
-                
-                
-    <tr>
-	<td width="20%" style="padding-left:5px;">05/19/17</td>
-    <td width="45%">
-	<a href="https://www.novelupdates.com/group/novitranslation/">Novitranslation</a>    </td>
-    <td width="20%">
-	<a title="c43" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/642050/" rel="nofollow">c43</a><a title="c43" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/642051/" rel="nofollow">c43</a>    </td>
-	</tr>
-                
-                
-    <tr>
-	<td width="20%" style="padding-left:5px;">05/13/17</td>
-    <td width="45%">
-	<a href="https://www.novelupdates.com/group/novitranslation/">Novitranslation</a>    </td>
-    <td width="20%">
-	<a title="c42" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/629265/" rel="nofollow">c42</a><a title="c42" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/629266/" rel="nofollow">c42</a>    </td>
+	<a title="c45" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1213214/" rel="nofollow">c45</a><a title="c45" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1213215/" rel="nofollow">c45</a>    </td>
 	</tr>
             </tbody>
 	</table>               
@@ -1660,7 +1661,7 @@ On <b class="rlist">1563</b> Reading Lists
        
      
         
-<div class="digg_pagination" style=""><em class="current">1</em><a href="./?pg=2">2</a><a href="./?pg=3">3</a><span class="my_popup_a_open">…</span><a href="./?pg=6">6</a><a href="./?pg=2" rel="next" class="next_page"> →</a></div><div id="my_popup_b">
+<div class="digg_pagination" style=""><em class="current">1</em><a href="./?pg=2">2</a><a href="./?pg=3">3</a><a href="./?pg=4">4</a><a href="./?pg=2" rel="next" class="next_page"> →</a></div><div id="my_popup_b">
   	<div class="page_digg_bg">
   	<div class="page_digg_title">Go to Page...</div>
     <input type="text" name="p_num_b" id="p_num_b" onkeydown="if (event.keyCode == 13) { document.getElementById('mypu_b_button').click(); }">
@@ -1733,10 +1734,65 @@ document.write('<scr'+'ipt src="//titangate-d.openx.net/w/1.0/jstag"><\/scr'+'ip
     <div class="btnrev-group sort-reviews pull-right">
 		   <button data-filter="helpfulness" class="btnrev btnrev-inverse active" onclick="changesort('helpfulnew','https://www.novelupdates.com/series/good-morning-miss-ghost//#comments');">Likes <i class="fa fa-angle-down" aria-hidden="true"></i></button>
 		                <button data-filter="date" class="btnrev btnrev-inverse" onclick="changesort('datenew','https://www.novelupdates.com/series/good-morning-miss-ghost//#comments');">Date <i class="fa fa-angle-down" aria-hidden="true"></i></button>
-            </div><div class="review-count pull-right">8 Reviews sorted by</div><br><br><div class="r_line"></div>
+            </div><div class="review-count pull-right">9 Reviews sorted by</div><br><br><div class="r_line"></div>
 	<div class="w-comments-list">
         
         
+
+
+<div class="w-comments-item" id="comment-65269">
+            <div class="rev_left">
+            
+            <img alt='neri21' src='https://forum.novelupdates.com/styles/flatawesome/xenforo/avatars/avatar_m.png' class='avatar avatar-50 photo' height='50' width='50' />            
+                                                </div>
+		<div class="w-comments-item-meta-new">
+        
+        
+                        
+                <table style="width: 89%; line-height: 23px; position: relative; top: 10px;">
+        <tbody>
+        	<tr style="background-color:transparent;">
+				<td valign="top">
+				<div>
+				<div>
+				</div>
+				</div>
+                                <span class="rev_icon new">New</span>				<a id="revname" class="revname65269" href="//www.novelupdates.com/readlist/?uname=neri21" title="View neri21's Public Reading List">neri21</a> rated it <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><br>
+				                <div><a href="//www.novelupdates.com/more-reviews/?uname=neri21">Other reviews by this user</a></div>
+                				</td>
+                
+                                        <td style="text-align: right;" valign="top"><div style="text-align: right;">February 11, 2018</div>
+							<div>Status: <span style="font-weight:bold;" id="stat65269">c1.1</span></div>
+						</td>
+                            	</tr>
+                </tbody>
+                </table>
+			<div class="w-comments-item-icon">
+							</div>
+            			<div class="w-comments-item-author"></div>
+            
+			
+		</div>
+		<div class="w-comments-item-text ">
+                
+        
+        The first time I read this novel,  I totally empathized with the 2nd male lead. Yup, I liked him better than Mo Zhen, the ML. He's loved the MC for the better half of his life and won't even let Mo Zhen peek at her picture for fear of him falling in love with her and what happened? Fate screwed him up big time. The girl went into a coma and her soul wandered around like a tourist and just happens to land on Mo Zhen's field of vision.<span class="dots">... </span><span class="morelink" href="#" onclick="showtext(this); return false;">more>></span><span style="display:none"> Is that f**ked up or what?<p></p>
+Then the girl wakes up and everything that happened between that and chapter 1 is wiped out as the love story commences on its predictable ending. I feel for the for 2nd ML though. His pain is palpable and I sort of didn't like how the author conveniently put the 2nd MC on his path like a proverbial 2nd consolation prize. It's so convenient and so trite and so undeserving of this interesting character.<p></p>
+The MC is also a half-baked character with no drive and ambition. Or maybe because she was exhausted and needed rest? The author was trying to channel a Helen of Troy vibe on her though that abruptly ended like she changed her mind because the novel was getting longer and she needed to put it up for publication asap? I was kinda interested in the cousin that tried to murder MC but like other ideas in the novel it went south and fell off a cliff somewhere. There's also an immortal who could have been incorporated more in the novel but again he went nowhere and was never heard from again. Oh well.<span class="morelink" href="#" onclick="hidetext(this); return false;"> &lt;&lt;less</span></span>        
+             
+                </div>
+        
+		    </div>
+    
+    	<div class="rev_b1">
+                <span class="rev_bar" title="Like this review">0 Likes · <a href="//www.novelupdates.com/login/" class="rev_help">Like</a></span>
+                
+        <span style="float:right;"><a class="permrev" href="//www.novelupdates.com/fdrev/?comid=65269&sid=9364" style="color:#8D8D8D !important;">Permalink</a> | <a href="//www.novelupdates.com/login/" title="Report Review" style="color:#8D8D8D !important;" class="my_popupreport_open">Report</a></span>        
+        
+        </div>
+
+
+    
 
 
 <div class="w-comments-item" id="comment-63638">
@@ -1973,6 +2029,73 @@ The update<span class="dots">... </span><span class="morelink" href="#" onclick=
     
 
 
+<div class="w-comments-item" id="comment-40454">
+            <div class="rev_left">
+            
+            <img alt='dysry' src='https://forum.novelupdates.com/styles/flatawesome/xenforo/avatars/avatar_m.png' class='avatar avatar-50 photo' height='50' width='50' />            
+                                                </div>
+		<div class="w-comments-item-meta-new">
+        
+        
+                        
+                <table style="width: 89%; line-height: 23px; position: relative; top: 10px;">
+        <tbody>
+        	<tr style="background-color:transparent;">
+				<td valign="top">
+				<div>
+				<div>
+				</div>
+				</div>
+                                				<a id="revname" class="revname40454" href="//www.novelupdates.com/readlist/?uname=dysry" title="View dysry's Public Reading List">dysry</a> rated it <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i><br>
+				                <div><a href="//www.novelupdates.com/more-reviews/?uname=dysry">Other reviews by this user</a></div>
+                				</td>
+                
+                                        <td style="text-align: right;" valign="top"><div style="text-align: right;">May 20, 2017</div>
+							<div>Status: <span style="font-weight:bold;" id="stat40454">--</span></div>
+						</td>
+                            	</tr>
+                </tbody>
+                </table>
+			<div class="w-comments-item-icon">
+							</div>
+            			<div class="w-comments-item-author"></div>
+            
+			
+		</div>
+		<div class="w-comments-item-text ">
+                
+        
+        The best word to describe Ban Li Zi is 'safe', and that all her series are aimed at getting the largest audience to like - but not love - reading them by being subtle and inoffensive enough to keep following, and for the author herself to leave a lasting impression by choosing quantity over quality. While the quality is nowhere near whichever favourite series you might have, the sheer amount of her work being translated/written makes it easily accessible, and since it's not bad, you may as well keep reading<span class="dots">... </span><span class="morelink" href="#" onclick="showtext(this); return false;">more>></span><span style="display:none"> the rest.<p></p>
+For me, Good Morning, Miss Ghost is one of her better novels. While in most of her series at least one of the characters is already in love/instantly attracted, the romance in GMMG is slower, with a cold ML slowly warming up with a spunky FL, before realising he eventually has to let her go. (The chase after that was clumsy and anti-climatic though.) <p></p>
+However, the real charm of GMMG is that it feels like it was one of the author's earlier works, and that there's still a sense of freshness and enthusiasm in the characters, story and conversations before she stopped trying and just kept reworking her standard recipe of "Light, sweet love, 1V1/Monogamy, HE/Happy Ending" with her staple dog food/goudan jokes, shy female lead/pervy male lead, extensive obsession with wechat netizens reactions and highly geared towards celebrities (which is an 80% rehash of GMMG anyway).<p></p>
+Overall GMMG stands above the author's other works, but only as a 8 compared to 6-7. The story was actually really good in the first half, but it lost its charm in the second half 
+<div class="sp-wrap sp-wrap-yellow">
+<div class="sp-head" title="Expand">
+Spoiler
+</div>
+<div class="sp-body folded">
+<p>when the FL regains her original body but loses her memory, the ML was the one chasing her, but chose to do so with public declarations, indirectly pressuring her by telling their families, clumsy seduction techniques etc rather than actually interacting with her. While the FL lost her spunk as a shameless ghost and was merely overwhelmed throughout this. In the end she regains her memories and they end up together - lucky for the ML since he probably would've been rejected otherwise. </p>
+<div class="spdiv">[collapse]</div>
+</div>
+</div>
+<p></p>
+Other notes - Amnesiac Queen also seems interesting, but it really depends on how the rest of the story plays out.<span class="morelink" href="#" onclick="hidetext(this); return false;"> &lt;&lt;less</span></span>        
+             
+                </div>
+        
+		    </div>
+    
+    	<div class="rev_b1">
+                <span class="rev_bar" title="Like this review">5 Likes · <a href="//www.novelupdates.com/login/" class="rev_help">Like</a></span>
+                
+        <span style="float:right;"><a class="permrev" href="//www.novelupdates.com/fdrev/?comid=40454&sid=9364" style="color:#8D8D8D !important;">Permalink</a> | <a href="//www.novelupdates.com/login/" title="Report Review" style="color:#8D8D8D !important;" class="my_popupreport_open">Report</a></span>        
+        
+        </div>
+
+
+    
+
+
 <div class="w-comments-item" id="comment-33657">
             <div class="rev_left">
             
@@ -2075,73 +2198,6 @@ I just love how Mo Zeng's coldness gradually melts the longer A Yao sticks to hi
                 <span class="rev_bar" title="Like this review">4 Likes · <a href="//www.novelupdates.com/login/" class="rev_help">Like</a></span>
                 
         <span style="float:right;"><a class="permrev" href="//www.novelupdates.com/fdrev/?comid=45582&sid=9364" style="color:#8D8D8D !important;">Permalink</a> | <a href="//www.novelupdates.com/login/" title="Report Review" style="color:#8D8D8D !important;" class="my_popupreport_open">Report</a></span>        
-        
-        </div>
-
-
-    
-
-
-<div class="w-comments-item" id="comment-40454">
-            <div class="rev_left">
-            
-            <img alt='dysry' src='https://forum.novelupdates.com/styles/flatawesome/xenforo/avatars/avatar_m.png' class='avatar avatar-50 photo' height='50' width='50' />            
-                                                </div>
-		<div class="w-comments-item-meta-new">
-        
-        
-                        
-                <table style="width: 89%; line-height: 23px; position: relative; top: 10px;">
-        <tbody>
-        	<tr style="background-color:transparent;">
-				<td valign="top">
-				<div>
-				<div>
-				</div>
-				</div>
-                                				<a id="revname" class="revname40454" href="//www.novelupdates.com/readlist/?uname=dysry" title="View dysry's Public Reading List">dysry</a> rated it <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i><br>
-				                <div><a href="//www.novelupdates.com/more-reviews/?uname=dysry">Other reviews by this user</a></div>
-                				</td>
-                
-                                        <td style="text-align: right;" valign="top"><div style="text-align: right;">May 20, 2017</div>
-							<div>Status: <span style="font-weight:bold;" id="stat40454">--</span></div>
-						</td>
-                            	</tr>
-                </tbody>
-                </table>
-			<div class="w-comments-item-icon">
-							</div>
-            			<div class="w-comments-item-author"></div>
-            
-			
-		</div>
-		<div class="w-comments-item-text ">
-                
-        
-        The best word to describe Ban Li Zi is 'safe', and that all her series are aimed at getting the largest audience to like - but not love - reading them by being subtle and inoffensive enough to keep following, and for the author herself to leave a lasting impression by choosing quantity over quality. While the quality is nowhere near whichever favourite series you might have, the sheer amount of her work being translated/written makes it easily accessible, and since it's not bad, you may as well keep reading<span class="dots">... </span><span class="morelink" href="#" onclick="showtext(this); return false;">more>></span><span style="display:none"> the rest.<p></p>
-For me, Good Morning, Miss Ghost is one of her better novels. While in most of her series at least one of the characters is already in love/instantly attracted, the romance in GMMG is slower, with a cold ML slowly warming up with a spunky FL, before realising he eventually has to let her go. (The chase after that was clumsy and anti-climatic though.) <p></p>
-However, the real charm of GMMG is that it feels like it was one of the author's earlier works, and that there's still a sense of freshness and enthusiasm in the characters, story and conversations before she stopped trying and just kept reworking her standard recipe of "Light, sweet love, 1V1/Monogamy, HE/Happy Ending" with her staple dog food/goudan jokes, shy female lead/pervy male lead, extensive obsession with wechat netizens reactions and highly geared towards celebrities (which is an 80% rehash of GMMG anyway).<p></p>
-Overall GMMG stands above the author's other works, but only as a 8 compared to 6-7. The story was actually really good in the first half, but it lost its charm in the second half 
-<div class="sp-wrap sp-wrap-yellow">
-<div class="sp-head" title="Expand">
-Spoiler
-</div>
-<div class="sp-body folded">
-<p>when the FL regains her original body but loses her memory, the ML was the one chasing her, but chose to do so with public declarations, indirectly pressuring her by telling their families, clumsy seduction techniques etc rather than actually interacting with her. While the FL lost her spunk as a shameless ghost and was merely overwhelmed throughout this. In the end she regains her memories and they end up together - lucky for the ML since he probably would've been rejected otherwise. </p>
-<div class="spdiv">[collapse]</div>
-</div>
-</div>
-<p></p>
-Other notes - Amnesiac Queen also seems interesting, but it really depends on how the rest of the story plays out.<span class="morelink" href="#" onclick="hidetext(this); return false;"> &lt;&lt;less</span></span>        
-             
-                </div>
-        
-		    </div>
-    
-    	<div class="rev_b1">
-                <span class="rev_bar" title="Like this review">3 Likes · <a href="//www.novelupdates.com/login/" class="rev_help">Like</a></span>
-                
-        <span style="float:right;"><a class="permrev" href="//www.novelupdates.com/fdrev/?comid=40454&sid=9364" style="color:#8D8D8D !important;">Permalink</a> | <a href="//www.novelupdates.com/login/" title="Report Review" style="color:#8D8D8D !important;" class="my_popupreport_open">Report</a></span>        
         
         </div>
 
@@ -2269,7 +2325,7 @@ Other notes - Amnesiac Queen also seems interesting, but it really depends on ho
 	</div>
 
 <span style="font-size: 11px; display: block; width: 0px; margin: -6px auto;">Advertisement</span>
-</div><h3 class="widgettitle_nuf" style="margin-bottom: 5px;">Latest Discussions</h3><div class="nuf_bd"><ul id="nuf_ul"><li id="nuf_li"><div class="messageInfo"><div class="nuf_msgcontent"><a title="Against the Gods" class="nuftrend_link" href="http://forum.novelupdates.com/threads/22830/unread">Against the Gods</a></div><div class="additionalRow muted">0h, 2m ago</div></div></li><li id="nuf_li"><div class="messageInfo"><div class="nuf_msgcontent"><a title="Skeleton Knight, in Another World" class="nuftrend_link" href="http://forum.novelupdates.com/threads/4548/unread">Skeleton Knight, in...</a></div><div class="additionalRow muted">0h, 14m ago</div></div></li><li id="nuf_li"><div class="messageInfo"><div class="nuf_msgcontent"><a title="I Reincarnated For Nothing" class="nuftrend_link" href="http://forum.novelupdates.com/threads/52134/unread">I Reincarnated For...</a></div><div class="additionalRow muted">0h, 28m ago</div></div></li><li id="nuf_li"><div class="messageInfo"><div class="nuf_msgcontent"><a title="True Martial World" class="nuftrend_link" href="http://forum.novelupdates.com/threads/1248/unread">True Martial World</a></div><div class="additionalRow muted">0h, 37m ago</div></div></li><li id="nuf_li"><div class="messageInfo"><div class="nuf_msgcontent"><a title="The Desolate Era" class="nuftrend_link" href="http://forum.novelupdates.com/threads/232/unread">The Desolate Era</a></div><div class="additionalRow muted">0h, 48m ago</div></div></li><li id="nuf_li"><div class="messageInfo"><div class="nuf_msgcontent"><a title="Release that Witch" class="nuftrend_link" href="http://forum.novelupdates.com/threads/11799/unread">Release that Witch</a></div><div class="additionalRow muted">0h, 57m ago</div></div></li><li id="nuf_li"><div class="messageInfo"><div class="nuf_msgcontent"><a title="The Book Eating Magician" class="nuftrend_link" href="http://forum.novelupdates.com/threads/39934/unread">The Book Eating...</a></div><div class="additionalRow muted">1h, 5m ago</div></div></li></ul></div><div class="ad_336" style="margin-top: 25px;">
+</div><h3 class="widgettitle_nuf" style="margin-bottom: 5px;">Latest Discussions</h3><div class="nuf_bd"><ul id="nuf_ul"><li id="nuf_li"><div class="messageInfo"><div class="nuf_msgcontent"><a title="Release that Witch" class="nuftrend_link" href="http://forum.novelupdates.com/threads/11799/unread">Release that Witch</a></div><div class="additionalRow muted">0h, 48m ago</div></div></li><li id="nuf_li"><div class="messageInfo"><div class="nuf_msgcontent"><a title="After Transformation, Mine and Her Wild Fantasy" class="nuftrend_link" href="http://forum.novelupdates.com/threads/6067/unread">After Transformation, Mine...</a></div><div class="additionalRow muted">0h, 49m ago</div></div></li><li id="nuf_li"><div class="messageInfo"><div class="nuf_msgcontent"><a title="Dragon Poor" class="nuftrend_link" href="http://forum.novelupdates.com/threads/43707/unread">Dragon Poor</a></div><div class="additionalRow muted">0h, 52m ago</div></div></li><li id="nuf_li"><div class="messageInfo"><div class="nuf_msgcontent"><a title="Shadow Hack" class="nuftrend_link" href="http://forum.novelupdates.com/threads/55846/unread">Shadow Hack</a></div><div class="additionalRow muted">1h, 2m ago</div></div></li><li id="nuf_li"><div class="messageInfo"><div class="nuf_msgcontent"><a title="Green Skin" class="nuftrend_link" href="http://forum.novelupdates.com/threads/40143/unread">Green Skin</a></div><div class="additionalRow muted">1h, 16m ago</div></div></li><li id="nuf_li"><div class="messageInfo"><div class="nuf_msgcontent"><a title="Virtual World: Peerless White Emperor" class="nuftrend_link" href="http://forum.novelupdates.com/threads/38936/unread">Virtual World: Peerless...</a></div><div class="additionalRow muted">1h, 43m ago</div></div></li><li id="nuf_li"><div class="messageInfo"><div class="nuf_msgcontent"><a title="Mechanical God Emperor" class="nuftrend_link" href="http://forum.novelupdates.com/threads/45533/unread">Mechanical God Emperor</a></div><div class="additionalRow muted">1h, 58m ago</div></div></li></ul></div><div class="ad_336" style="margin-top: 25px;">
 
 	<!-- /8095840/.2_8864.4_novelupdates.com_tier1 --> 
 	<div id='div-gpt-ad-1490579123603-0' style='height:250px; width:300px;'>
@@ -2379,10 +2435,10 @@ $(document).ready(function()
 </script><script type='text/javascript' src='https://www.novelupdates.com/wp-content/plugins/user-meta-display/assets/js/scripts-user_meta_display.js?ver=1.2.2'></script>
 <script type='text/javascript' src='https://www.novelupdates.com/wp-content/plugins/yet-another-stars-rating/js/jquery.rateit.min.js?ver=1.0.22'></script>
 <script type='text/javascript' src='https://www.novelupdates.com/wp-content/plugins/yet-another-stars-rating/js/yasr-front.js?ver=1.0.1'></script>
-<script type='text/javascript' src='https://www.novelupdates.com/wp-content/themes/ndupdates/js/jquery.easing.min.js?ver=4.9'></script>
+<script type='text/javascript' src='https://www.novelupdates.com/wp-content/themes/ndupdates/js/jquery.easing.min.js?ver=4.9.2'></script>
 <script type='text/javascript' src='https://www.novelupdates.com/wp-content/themes/ndupdates/js/us.core.js?ver=3.61'></script>
 <script type='text/javascript' src='https://www.novelupdates.com/wp-content/themes/ndupdates/js/us.widgets.js?ver=3.61'></script>
-<script type='text/javascript' src='https://www.novelupdates.com/wp-includes/js/comment-reply.min.js?ver=4.9'></script>
-<script type='text/javascript' src='https://www.novelupdates.com/wp-includes/js/wp-embed.min.js?ver=4.9'></script>
+<script type='text/javascript' src='https://www.novelupdates.com/wp-includes/js/comment-reply.min.js?ver=4.9.2'></script>
+<script type='text/javascript' src='https://www.novelupdates.com/wp-includes/js/wp-embed.min.js?ver=4.9.2'></script>
 </body>
 </html>

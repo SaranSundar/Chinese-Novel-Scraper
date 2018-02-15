@@ -90,7 +90,7 @@ def emailUpdatedChapters(txt):
 
     username = 'saran@nilal.com'
     password = 'here'
-    server = smtplib.SMTP("smtp.gmail.com", 465)
+    server = smtplib.SMTP_SSL('smtp.googlemail.com', 465)
     server.login(username, password)
     server.sendmail(fromaddr, toaddrs, msg.as_string())
     server.quit()

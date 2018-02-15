@@ -22,7 +22,7 @@
 <link rel="alternate" type="application/rss+xml" title="Novel Updates &raquo; Comments Feed" href="https://www.novelupdates.com/comments/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Novel Updates &raquo; The King of Hell&#8217;s Genius Pampered Wife Comments Feed" href="https://www.novelupdates.com/series/the-king-of-hells-genius-pampered-wife/feed/" />
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.novelupdates.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.novelupdates.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.2"}};
 			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script>
 		<style type="text/css">
@@ -39,16 +39,17 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel='stylesheet' id='theme-my-login-css'  href='https://www.novelupdates.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.4.9' type='text/css' media='all' />
-<link rel='stylesheet' id='bbspoiler-css'  href='https://www.novelupdates.com/wp-content/plugins/bbspoiler/inc/bbspoiler.css?ver=4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://www.novelupdates.com/wp-includes/css/dashicons.min.css?ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='https://www.novelupdates.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.4.10' type='text/css' media='all' />
+<link rel='stylesheet' id='bbspoiler-css'  href='https://www.novelupdates.com/wp-content/plugins/bbspoiler/inc/bbspoiler.css?ver=4.9.2' type='text/css' media='all' />
 <link rel='stylesheet' id='yasrcss-css'  href='https://www.novelupdates.com/wp-content/plugins/yet-another-stars-rating/css/yasr.css' type='text/css' media='all' />
 <link rel='stylesheet' id='yasrcsslightscheme-css'  href='https://www.novelupdates.com/wp-content/plugins/yet-another-stars-rating/css/yasr-table-light.css' type='text/css' media='all' />
 <link rel='stylesheet' id='breadcrumbs-nu-css'  href='https://www.novelupdates.com/wp-content/themes/ndupdates-child/js/breadcrumbs.css?ver=1.1.4' type='text/css' media='' />
 <link rel='stylesheet' id='pagination-nu-css'  href='//cdn.novelupdates.com/js/pg/pagination.css?ver=1.0.9' type='text/css' media='' />
 <link rel='stylesheet' id='com_mce-css'  href='//cdn.novelupdates.com/js/com_mce.css?ver=1.0.1' type='text/css' media='' />
 <link rel='stylesheet' id='ajax-search-posts-css-css'  href='//cdn.novelupdates.com/js/ajax_search.post.css?ver=1.0.4' type='text/css' media='' />
-<link rel='stylesheet' id='us-font-1-css'  href='https://fonts.googleapis.com/css?family=Noto+Sans%3A300%2C400%2C700&#038;subset=latin&#038;ver=4.9' type='text/css' media='all' />
-<link rel='stylesheet' id='us-font-2-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C400italic%2C700%2C700italic%2C300&#038;subset=latin&#038;ver=4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='us-font-1-css'  href='https://fonts.googleapis.com/css?family=Noto+Sans%3A300%2C400%2C700&#038;subset=latin&#038;ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='us-font-2-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C400italic%2C700%2C700italic%2C300&#038;subset=latin&#038;ver=4.9.2' type='text/css' media='all' />
 <link rel='stylesheet' id='us-motioncss-css'  href='https://www.novelupdates.com/wp-content/themes/ndupdates/css/motioncss.css?ver=3.61' type='text/css' media='all' />
 <link rel='stylesheet' id='us-motioncss-responsive-css'  href='https://www.novelupdates.com/wp-content/themes/ndupdates/css/motioncss-responsive.css?ver=3.61' type='text/css' media='all' />
 <link rel='stylesheet' id='us-font-awesome-css'  href='https://www.novelupdates.com/wp-content/themes/ndupdates/css/font-awesome.css?ver=4.3.0' type='text/css' media='all' />
@@ -61,11 +62,11 @@ img.emoji {
 var title = {"unfolded":"Expand","folded":"Collapse"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://www.novelupdates.com/wp-content/plugins/bbspoiler/inc/bbspoiler.js?ver=4.9'></script>
-<script type='text/javascript' src="https://forum.novelupdates.com/api/index.php?assets/sdk&#038;prefix=xfac&#038;ver=4.9"></script>
-<script type='text/javascript' src='https://www.novelupdates.com/wp-content/plugins/xenforo-api-consumer/js/script.js?ver=4.9'></script>
-<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?hl=en-US&#038;ver=4.9'></script>
-<script type='text/javascript' src='https://www.novelupdates.com/wp-content/plugins/theme-my-login/modules/themed-profiles/themed-profiles.js?ver=4.9'></script>
+<script type='text/javascript' src='https://www.novelupdates.com/wp-content/plugins/bbspoiler/inc/bbspoiler.js?ver=4.9.2'></script>
+<script type='text/javascript' src="https://forum.novelupdates.com/api/index.php?assets/sdk&#038;prefix=xfac&#038;ver=4.9.2"></script>
+<script type='text/javascript' src='https://www.novelupdates.com/wp-content/plugins/xenforo-api-consumer/js/script.js?ver=4.9.2'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?hl=en-US&#038;ver=4.9.2'></script>
+<script type='text/javascript' src='https://www.novelupdates.com/wp-content/plugins/theme-my-login/modules/themed-profiles/themed-profiles.js?ver=4.9.2'></script>
 <script type='text/javascript' src='https://www.novelupdates.com/wp-content/themes/ndupdates-child/js/cookieconsent.min.js?ver=1.0.1'></script>
 <script type='text/javascript' src='https://www.novelupdates.com/wp-content/themes/ndupdates-child/js/jquery.tablesorter.min.js?ver=1.0.1'></script>
 <script type='text/javascript' src='//cdn.novelupdates.com/js/popoverlay/jquery.popupoverlay.js?ver=1.0.1'></script>
@@ -85,7 +86,7 @@ var title = {"unfolded":"Expand","folded":"Collapse"};
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.novelupdates.com/wp-includes/wlwmanifest.xml" /> 
 <link rel='prev' title='Lance N&#8217; Masques' href='https://www.novelupdates.com/series/lance-n-masques/' />
 <link rel='next' title='Paying to Win in a VRMMO' href='https://www.novelupdates.com/series/paying-to-win-in-a-vrmmo/' />
-<meta name="generator" content="WordPress 4.9" />
+<meta name="generator" content="WordPress 4.9.2" />
 <link rel="canonical" href="https://www.novelupdates.com/series/the-king-of-hells-genius-pampered-wife/" />
 <link rel='shortlink' href='https://www.novelupdates.com/?p=9016' />
 <link rel="alternate" type="application/json+oembed" href="https://www.novelupdates.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.novelupdates.com%2Fseries%2Fthe-king-of-hells-genius-pampered-wife%2F" />
@@ -1381,11 +1382,11 @@ Cannot be used with: Female Lead Falls in Love First" >Male Lead Falls in Love F
 [<i>Tags Hidden</i>]
 </div>
 
-<h5 class="seriesother">Rating<span class="uvotes">(4.3 / 5.0, 229 votes)</span></h5>
+<h5 class="seriesother">Rating<span class="uvotes">(4.3 / 5.0, 231 votes)</span></h5>
 <table cellspacing="1" cellpadding="0" border="0" id="myrates">
 <tbody><tr>
  <td>5&nbsp;&nbsp;</td>
- <td><span class="rating" style="width:34.5%; background-color: #00FF00"></span><span class="votetext">&nbsp;69% (157 votes)</span></td>
+ <td><span class="rating" style="width:34%; background-color: #00FF00"></span><span class="votetext">&nbsp;68% (158 votes)</span></td>
 </tr>
 <tr>
  <td>4&nbsp;&nbsp;</td>
@@ -1397,7 +1398,7 @@ Cannot be used with: Female Lead Falls in Love First" >Male Lead Falls in Love F
 </tr>
 <tr>
  <td>2&nbsp;&nbsp;</td>
- <td><span class="rating" style="width:2%; background-color: #FFCC00"></span><span class="votetext">&nbsp;4% (9 votes)</span></td>
+ <td><span class="rating" style="width:2%; background-color: #FFCC00"></span><span class="votetext">&nbsp;4% (10 votes)</span></td>
 </tr>
 <tr>
  <td>1&nbsp;&nbsp;</td>
@@ -1459,15 +1460,15 @@ No</div>
 <span class="seriesna">N/A</span></div>
 
 <h5 class="seriesother">Release Frequency</h5>
-Every 1.4 Day(s)
+Every 1.5 Day(s)
 
-<h5 class="seriesother">Activity Stats <div class="edit">[<span class="editme"><a href="//www.novelupdates.com/rank-graph/?pid=9016">Graph</a></span>]</div></h5>Weekly Rank: <span class="userrate rank">#121</span><br>Monthly Rank: <span class="userrate rank">#97</span><br>All Time Rank: <span class="userrate rank">#113</span><br>
+<h5 class="seriesother">Activity Stats <div class="edit">[<span class="editme"><a href="//www.novelupdates.com/rank-graph/?pid=9016">Graph</a></span>]</div></h5>Weekly Rank: <span class="userrate rank">#178</span><br>Monthly Rank: <span class="userrate rank">#122</span><br>All Time Rank: <span class="userrate rank">#112</span><br>
 <h5 class="seriesother">Reading List <div class="edit">[<span class="editme"><a href="//www.novelupdates.com/rank-graph/?pid=9016">Graph</a></span>]</div></h5>
 
 
-On <b class="rlist">4695</b> Reading Lists
+On <b class="rlist">4764</b> Reading Lists
 
-<br>Monthly Rank: <span class="userrate rank">#105</span><br>All Time Rank: <span class="userrate rank">#323</span>
+<br>Monthly Rank: <span class="userrate rank">#118</span><br>All Time Rank: <span class="userrate rank">#323</span>
 
 </div> 
 	</div> 
@@ -1490,7 +1491,7 @@ On <b class="rlist">4695</b> Reading Lists
 <span itemprop="name">The King of Hell&#8217;s Genius Pampered Wife</span>
 <span itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating"> average rating 
 <span itemprop="ratingValue">4.3</span>/<span itemprop="bestRating">5</span> - 
-<span itemprop="ratingCount">229</span> user ratings</span></div>
+<span itemprop="ratingCount">231</span> user ratings</span></div>
 <h5 class="seriesother associated">Associated Names</h5>
 <span class="editmsg">One entry per line</span>
 <div id="editassociated">医毒双绝：冥王的天才宠妃</div>
@@ -1526,6 +1527,96 @@ N/A
 	<tbody>
         
                   
+                
+    <tr>
+	<td width="20%" style="padding-left:5px;">02/14/18</td>
+    <td width="45%">
+	<a href="https://www.novelupdates.com/group/volare-novels/">volarenovels</a>    </td>
+    <td width="20%">
+	<a title="c293" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1251901/" rel="nofollow">c293</a><a title="c293" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1251902/" rel="nofollow">c293</a>    </td>
+	</tr>
+                
+                
+    <tr>
+	<td width="20%" style="padding-left:5px;">02/14/18</td>
+    <td width="45%">
+	<a href="https://www.novelupdates.com/group/volare-novels/">volarenovels</a>    </td>
+    <td width="20%">
+	<a title="c292" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1251574/" rel="nofollow">c292</a><a title="c292" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1251575/" rel="nofollow">c292</a>    </td>
+	</tr>
+                
+                
+    <tr>
+	<td width="20%" style="padding-left:5px;">02/13/18</td>
+    <td width="45%">
+	<a href="https://www.novelupdates.com/group/volare-novels/">volarenovels</a>    </td>
+    <td width="20%">
+	<a title="c291" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1248794/" rel="nofollow">c291</a><a title="c291" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1248795/" rel="nofollow">c291</a>    </td>
+	</tr>
+                
+                
+    <tr>
+	<td width="20%" style="padding-left:5px;">02/12/18</td>
+    <td width="45%">
+	<a href="https://www.novelupdates.com/group/volare-novels/">volarenovels</a>    </td>
+    <td width="20%">
+	<a title="c290" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1246211/" rel="nofollow">c290</a><a title="c290" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1246212/" rel="nofollow">c290</a>    </td>
+	</tr>
+                
+                
+    <tr>
+	<td width="20%" style="padding-left:5px;">02/09/18</td>
+    <td width="45%">
+	<a href="https://www.novelupdates.com/group/volare-novels/">volarenovels</a>    </td>
+    <td width="20%">
+	<a title="c289" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1237481/" rel="nofollow">c289</a><a title="c289" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1237482/" rel="nofollow">c289</a>    </td>
+	</tr>
+                
+                
+    <tr>
+	<td width="20%" style="padding-left:5px;">02/09/18</td>
+    <td width="45%">
+	<a href="https://www.novelupdates.com/group/volare-novels/">volarenovels</a>    </td>
+    <td width="20%">
+	<a title="c288" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1237480/" rel="nofollow">c288</a><a title="c288" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1237481/" rel="nofollow">c288</a>    </td>
+	</tr>
+                
+                
+    <tr>
+	<td width="20%" style="padding-left:5px;">02/09/18</td>
+    <td width="45%">
+	<a href="https://www.novelupdates.com/group/volare-novels/">volarenovels</a>    </td>
+    <td width="20%">
+	<a title="c287" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1237479/" rel="nofollow">c287</a><a title="c287" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1237480/" rel="nofollow">c287</a>    </td>
+	</tr>
+                
+                
+    <tr>
+	<td width="20%" style="padding-left:5px;">02/06/18</td>
+    <td width="45%">
+	<a href="https://www.novelupdates.com/group/volare-novels/">volarenovels</a>    </td>
+    <td width="20%">
+	<a title="c285-286" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1227982/" rel="nofollow">c285-286</a><a title="c285-286" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1227983/" rel="nofollow">c285-286</a>    </td>
+	</tr>
+                
+                
+    <tr>
+	<td width="20%" style="padding-left:5px;">02/02/18</td>
+    <td width="45%">
+	<a href="https://www.novelupdates.com/group/volare-novels/">volarenovels</a>    </td>
+    <td width="20%">
+	<a title="c284" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1215959/" rel="nofollow">c284</a><a title="c284" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1215960/" rel="nofollow">c284</a>    </td>
+	</tr>
+                
+                
+    <tr>
+	<td width="20%" style="padding-left:5px;">02/01/18</td>
+    <td width="45%">
+	<a href="https://www.novelupdates.com/group/volare-novels/">volarenovels</a>    </td>
+    <td width="20%">
+	<a title="c283" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1212771/" rel="nofollow">c283</a><a title="c283" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1212772/" rel="nofollow">c283</a>    </td>
+	</tr>
+                
                 
     <tr>
 	<td width="20%" style="padding-left:5px;">01/31/18</td>
@@ -1570,103 +1661,13 @@ N/A
     <td width="20%">
 	<a title="c277" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1188966/" rel="nofollow">c277</a><a title="c277" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1188967/" rel="nofollow">c277</a>    </td>
 	</tr>
-                
-                
-    <tr>
-	<td width="20%" style="padding-left:5px;">01/23/18</td>
-    <td width="45%">
-	<a href="https://www.novelupdates.com/group/volare-novels/">volarenovels</a>    </td>
-    <td width="20%">
-	<a title="c276" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1185705/" rel="nofollow">c276</a><a title="c276" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1185706/" rel="nofollow">c276</a>    </td>
-	</tr>
-                
-                
-    <tr>
-	<td width="20%" style="padding-left:5px;">01/22/18</td>
-    <td width="45%">
-	<a href="https://www.novelupdates.com/group/volare-novels/">volarenovels</a>    </td>
-    <td width="20%">
-	<a title="c275" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1183092/" rel="nofollow">c275</a><a title="c275" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1183093/" rel="nofollow">c275</a>    </td>
-	</tr>
-                
-                
-    <tr>
-	<td width="20%" style="padding-left:5px;">01/19/18</td>
-    <td width="45%">
-	<a href="https://www.novelupdates.com/group/volare-novels/">volarenovels</a>    </td>
-    <td width="20%">
-	<a title="c274" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1173072/" rel="nofollow">c274</a><a title="c274" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1173073/" rel="nofollow">c274</a>    </td>
-	</tr>
-                
-                
-    <tr>
-	<td width="20%" style="padding-left:5px;">01/19/18</td>
-    <td width="45%">
-	<a href="https://www.novelupdates.com/group/volare-novels/">volarenovels</a>    </td>
-    <td width="20%">
-	<a title="c273" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1173071/" rel="nofollow">c273</a><a title="c273" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1173072/" rel="nofollow">c273</a>    </td>
-	</tr>
-                
-                
-    <tr>
-	<td width="20%" style="padding-left:5px;">01/17/18</td>
-    <td width="45%">
-	<a href="https://www.novelupdates.com/group/volare-novels/">volarenovels</a>    </td>
-    <td width="20%">
-	<a title="c272" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1167499/" rel="nofollow">c272</a><a title="c272" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1167500/" rel="nofollow">c272</a>    </td>
-	</tr>
-                
-                
-    <tr>
-	<td width="20%" style="padding-left:5px;">01/16/18</td>
-    <td width="45%">
-	<a href="https://www.novelupdates.com/group/volare-novels/">volarenovels</a>    </td>
-    <td width="20%">
-	<a title="c271" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1164490/" rel="nofollow">c271</a><a title="c271" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1164491/" rel="nofollow">c271</a>    </td>
-	</tr>
-                
-                
-    <tr>
-	<td width="20%" style="padding-left:5px;">01/15/18</td>
-    <td width="45%">
-	<a href="https://www.novelupdates.com/group/volare-novels/">volarenovels</a>    </td>
-    <td width="20%">
-	<a title="c270" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1161777/" rel="nofollow">c270</a><a title="c270" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1161778/" rel="nofollow">c270</a>    </td>
-	</tr>
-                
-                
-    <tr>
-	<td width="20%" style="padding-left:5px;">01/12/18</td>
-    <td width="45%">
-	<a href="https://www.novelupdates.com/group/volare-novels/">volarenovels</a>    </td>
-    <td width="20%">
-	<a title="c269" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1152727/" rel="nofollow">c269</a><a title="c269" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1152728/" rel="nofollow">c269</a>    </td>
-	</tr>
-                
-                
-    <tr>
-	<td width="20%" style="padding-left:5px;">01/11/18</td>
-    <td width="45%">
-	<a href="https://www.novelupdates.com/group/volare-novels/">volarenovels</a>    </td>
-    <td width="20%">
-	<a title="c268" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1150246/" rel="nofollow">c268</a><a title="c268" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1150247/" rel="nofollow">c268</a>    </td>
-	</tr>
-                
-                
-    <tr>
-	<td width="20%" style="padding-left:5px;">01/10/18</td>
-    <td width="45%">
-	<a href="https://www.novelupdates.com/group/volare-novels/">volarenovels</a>    </td>
-    <td width="20%">
-	<a title="c267" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1147821/" rel="nofollow">c267</a><a title="c267" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1147822/" rel="nofollow">c267</a>    </td>
-	</tr>
             </tbody>
 	</table>               
                      
        
      
         
-<div class="digg_pagination" style=""><em class="current">1</em><a href="./?pg=2">2</a><a href="./?pg=3">3</a><span class="my_popup_a_open">…</span><a href="./?pg=17">17</a><a href="./?pg=2" rel="next" class="next_page"> →</a></div><div id="my_popup_b">
+<div class="digg_pagination" style=""><em class="current">1</em><a href="./?pg=2">2</a><a href="./?pg=3">3</a><span class="my_popup_a_open">…</span><a href="./?pg=18">18</a><a href="./?pg=2" rel="next" class="next_page"> →</a></div><div id="my_popup_b">
   	<div class="page_digg_bg">
   	<div class="page_digg_title">Go to Page...</div>
     <input type="text" name="p_num_b" id="p_num_b" onkeydown="if (event.keyCode == 13) { document.getElementById('mypu_b_button').click(); }">
@@ -1743,243 +1744,6 @@ document.write('<scr'+'ipt src="//titangate-d.openx.net/w/1.0/jstag"><\/scr'+'ip
 	<div class="w-comments-list">
         
         
-
-
-<div class="w-comments-item" id="comment-61575">
-            <div class="rev_left">
-            
-            <img alt='Husby' src='https://forum.novelupdates.com/styles/flatawesomedark/xenforo/avatars/avatar_m.png' class='avatar avatar-50 photo' height='50' width='50' />            
-                                                </div>
-		<div class="w-comments-item-meta-new">
-        
-        
-                        
-                <table style="width: 89%; line-height: 23px; position: relative; top: 10px;">
-        <tbody>
-        	<tr style="background-color:transparent;">
-				<td valign="top">
-				<div>
-				<div>
-				</div>
-				</div>
-                                <span class="rev_icon new">New</span>				<a id="revname" class="revname61575" href="//www.novelupdates.com/readlist/?uname=Husby" title="View Husby's Public Reading List">Husby</a> rated it <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><br>
-				                <div><a href="//www.novelupdates.com/more-reviews/?uname=Husby">Other reviews by this user</a></div>
-                				</td>
-                
-                                        <td style="text-align: right;" valign="top"><div style="text-align: right;">January 4, 2018</div>
-							<div>Status: <span style="font-weight:bold;" id="stat61575">c261</span></div>
-						</td>
-                            	</tr>
-                </tbody>
-                </table>
-			<div class="w-comments-item-icon">
-							</div>
-            			<div class="w-comments-item-author"></div>
-            
-			
-		</div>
-		<div class="w-comments-item-text ">
-                
-        
-        I've read countless novels eerily similar to this one already. It brings nothing new and exciting to the table. Standard "face slapping" novel with a female MC that praises her to the heavens at any opportunities. She's supposed to be fair and strong of mind, but ends up being far too long winded and weak in most respects. I mean any supposedly respectable woman who can't even stand her ground due to being in the presence of a beautiful man is pathetic. She's not a cold and intelligent woman, she's<span class="dots">... </span><span class="morelink" href="#" onclick="showtext(this); return false;">more>></span><span style="display:none"> a 12 year old girl who just met Justin Bieber.<p></p>
-The female MC despite what everyone else will tell you is not OP at all. She has great talent and progresses fast, but the way the story is written she will never be OP. The ones that antagonizes her will always be much stronger than her and only the servants of said person might be at the same level as her. Leaving it to the ML to be the one that's actually OP who has to save the day at the most important parts.<p></p>
-In any case that's just my personal issues with these stories which I always hope will finally bring a strong female MC with mature thinking, but always falls far too short. The issues with the author isn't anything new either. Bet I could pick out a random neighbor who writes just as good. The whole story hinges on misunderstanding which would not exist in any other universe than that which is this authors (and many others like it) novel. Tens of chapters of arguing like little children, one short sentence at a time. A good chapter is one where there are more than 4 lines of dialogue. Instead we get a couple of lines of talking and 20 lines describing this new beautiful dude or the ML. The little dialogue we get is abysmal as well considering those "conversations" that spans tens of chapters in the end leaves the people misunderstanding each other despite the situation being so damn easy to interpret just by looking that you didn't need to spend those tens of chapters speaking about this to begin with. These supposedly super strong, super intelligent people can make a discussion about apples turn into an entire arc that deals with yet another idiot that wants to kill MC over nothing, or the MC or ML starting god damn wars due to being jealous for no reason and refusing to act like god damn adults.<p></p>
-In the end it's a sh*t novel. If you like novels that hype up the female MC with her falling short in every way and introduces hot man children who interacts with this failure of a woman for some reason, and the gaggle of women who loves these man children so much that any other person (MC, always just MC) who gains their interest is put on the top of their list of people who will die TONIGHT! Also a plot that because of the ineptitude of the author not evolves to be more interesting, but instead becomes more and more complicated in idiotic turns of events that makes no sense...<br />
-Then go on and read it. You'll never finish it though, only a select few people are capable of that kind of seizure inducing task. Go read the spoilers on the forum when you get tired and end it.<span class="morelink" href="#" onclick="hidetext(this); return false;"> &lt;&lt;less</span></span>        
-             
-                </div>
-        
-		    </div>
-    
-    	<div class="rev_b1">
-                <span class="rev_bar" title="Like this review">3 Likes · <a href="//www.novelupdates.com/login/" class="rev_help">Like</a></span>
-                
-        <span style="float:right;"><a class="permrev" href="//www.novelupdates.com/fdrev/?comid=61575&sid=9016" style="color:#8D8D8D !important;">Permalink</a> | <a href="//www.novelupdates.com/login/" title="Report Review" style="color:#8D8D8D !important;" class="my_popupreport_open">Report</a></span>        
-        
-        </div>
-
-
-    
-
-
-<div class="w-comments-item" id="comment-31645">
-            <div class="rev_left">
-            
-            <img alt='spectrearc' src='https://forum.novelupdates.com/styles/flatawesome/xenforo/avatars/avatar_m.png' class='avatar avatar-50 photo' height='50' width='50' />            
-                                                </div>
-		<div class="w-comments-item-meta-new">
-        
-        
-                        
-                <table style="width: 89%; line-height: 23px; position: relative; top: 10px;">
-        <tbody>
-        	<tr style="background-color:transparent;">
-				<td valign="top">
-				<div>
-				<div>
-				</div>
-				</div>
-                                				<a id="revname" class="revname31645" href="//www.novelupdates.com/readlist/?uname=spectrearc" title="View spectrearc's Public Reading List">spectrearc</a> rated it <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><br>
-				                <div><a href="//www.novelupdates.com/more-reviews/?uname=spectrearc">Other reviews by this user</a></div>
-                				</td>
-                
-                                        <td style="text-align: right;" valign="top"><div style="text-align: right;">February 10, 2017</div>
-							<div>Status: <span style="font-weight:bold;" id="stat31645">c1945</span></div>
-						</td>
-                            	</tr>
-                </tbody>
-                </table>
-			<div class="w-comments-item-icon">
-							</div>
-            			<div class="w-comments-item-author"></div>
-            
-			
-		</div>
-		<div class="w-comments-item-text ">
-                
-        
-        
-<div class="sp-wrap sp-wrap-yellow">
-<div class="sp-head" title="Expand">
-Spoiler
-</div>
-<div class="sp-body folded">
-<p>
-The novel is reasonably well written. Plot is cogent, and generally well developed. It's nice seeing an overarching plot unfold as the chapters flow on.</p>
-<p>Cons</p>
-<p>- Author likes to exaggerate the good points of the main character. Expect males the MC sees to fall in love with her at first sight.</p>
-<p>- Expect everything the MC does to be perfect, every female character (barring a few) to hate her for her beauty etc., the cliches are everywhere.</p>
-<p>- Chapters are extremely short.</p>
-<p>General comments</p>
-<p>- There will be some tragedy within the novel; this is used in a way that it sometimes seems the author ran out of ideas and just wants to demolish the current plot setting.</p>
-<p>- The antagonists will tarry on - the author will make you loathe them, and they won't be easily killed off.</p>
-<p>As at 1900+ we're in the midst of the 2nd (?) arc, and the story is still developing.</p>
-<div class="spdiv">[collapse]</div>
-</div>
-</div>
-        
-             
-                </div>
-        
-		    </div>
-    
-    	<div class="rev_b1">
-                <span class="rev_bar" title="Like this review">10 Likes · <a href="//www.novelupdates.com/login/" class="rev_help">Like</a></span>
-                
-        <span style="float:right;"><a class="permrev" href="//www.novelupdates.com/fdrev/?comid=31645&sid=9016" style="color:#8D8D8D !important;">Permalink</a> | <a href="//www.novelupdates.com/login/" title="Report Review" style="color:#8D8D8D !important;" class="my_popupreport_open">Report</a></span>        
-        
-        </div>
-
-
-    
-
-
-<div class="w-comments-item" id="comment-28394">
-            <div class="rev_left">
-            
-            <img alt='Kittybear' src='https://forum.novelupdates.com/data/avatars/m/27/27251.jpg?1480803317' class='avatar avatar-50 photo' height='50' width='50' />            
-                                                </div>
-		<div class="w-comments-item-meta-new">
-        
-        
-                        
-                <table style="width: 89%; line-height: 23px; position: relative; top: 10px;">
-        <tbody>
-        	<tr style="background-color:transparent;">
-				<td valign="top">
-				<div>
-				<div>
-				</div>
-				</div>
-                                				<a id="revname" class="revname28394" href="//www.novelupdates.com/readlist/?uname=Kittybear" title="View Kittybear's Public Reading List">Kittybear</a> rated it <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><br>
-				                <div><a href="//www.novelupdates.com/more-reviews/?uname=Kittybear">Other reviews by this user</a></div>
-                				</td>
-                
-                                        <td style="text-align: right;" valign="top"><div style="text-align: right;">January 6, 2017</div>
-							<div>Status: <span style="font-weight:bold;" id="stat28394">c5</span></div>
-						</td>
-                            	</tr>
-                </tbody>
-                </table>
-			<div class="w-comments-item-icon">
-							</div>
-            			<div class="w-comments-item-author"></div>
-            
-			
-		</div>
-		<div class="w-comments-item-text ">
-                
-        
-        Pretty good in my opinion. Don't read this if your wanting serious or dark kind of plot. This is a typical Xuanhuan novel with a super OP female lead. I happen to love her because she is my favorite type of character. The type that has no bullsh*t threats that never come to be and actually lives up to the name of being a super assassin instead of just the usual "gotta cultivate first to kill people the normal way." She actually kills people without cultivation in a way a<span class="dots">... </span><span class="morelink" href="#" onclick="showtext(this); return false;">more>></span><span style="display:none"> super gold medal assassin should.<span class="morelink" href="#" onclick="hidetext(this); return false;"> &lt;&lt;less</span></span>        
-             
-                </div>
-        
-		    </div>
-    
-    	<div class="rev_b1">
-                <span class="rev_bar" title="Like this review">8 Likes · <a href="//www.novelupdates.com/login/" class="rev_help">Like</a></span>
-                
-        <span style="float:right;"><a class="permrev" href="//www.novelupdates.com/fdrev/?comid=28394&sid=9016" style="color:#8D8D8D !important;">Permalink</a> | <a href="//www.novelupdates.com/login/" title="Report Review" style="color:#8D8D8D !important;" class="my_popupreport_open">Report</a></span>        
-        
-        </div>
-
-
-    
-
-
-<div class="w-comments-item" id="comment-53066">
-            <div class="rev_left">
-            
-            <img alt='Mou' src='https://forum.novelupdates.com/styles/flatawesome/xenforo/avatars/avatar_m.png' class='avatar avatar-50 photo' height='50' width='50' />            
-                                                </div>
-		<div class="w-comments-item-meta-new">
-        
-        
-                        
-                <table style="width: 89%; line-height: 23px; position: relative; top: 10px;">
-        <tbody>
-        	<tr style="background-color:transparent;">
-				<td valign="top">
-				<div>
-				<div>
-				</div>
-				</div>
-                                				<a id="revname" class="revname53066" href="//www.novelupdates.com/readlist/?uname=Mou" title="View Mou's Public Reading List">Mou</a> rated it <i class="fa fa-star"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><br>
-				                <div><a href="//www.novelupdates.com/more-reviews/?uname=Mou">Other reviews by this user</a></div>
-                				</td>
-                
-                                        <td style="text-align: right;" valign="top"><div style="text-align: right;">September 30, 2017</div>
-							<div>Status: <span style="font-weight:bold;" id="stat53066">--</span></div>
-						</td>
-                            	</tr>
-                </tbody>
-                </table>
-			<div class="w-comments-item-icon">
-							</div>
-            			<div class="w-comments-item-author"></div>
-            
-			
-		</div>
-		<div class="w-comments-item-text ">
-                
-        
-        First I would like to say that I like transmigration novels with strong female leads. BUT I COULD NOT BRING MYSELF TO READ THIS ONE. This novel is a detailed description of s*xual harassment and eve teasing and is moving towards much worse things. If teenage and other similar age groups are reading this novel, then it ts teaching the boys that harassing and s*xually abusing a girl is an expression of love. And teaching the girls that if a handsome, strong and powerful guy, or any guy for that<span class="dots">... </span><span class="morelink" href="#" onclick="showtext(this); return false;">more>></span><span style="display:none"> matter,  should harass them, they should be all flattered instead of, at the least, running in the opposite direction, if they are not able to fight back. I don't know what kind of message the author is trying to send, but this is like a report on two people with psychological issues of the very twisted variety, not a novel.<p></p>
-Sorry if I offended someone. But I thought it better to be transperent on these matters.<p></p>
-Again I apologise.<span class="morelink" href="#" onclick="hidetext(this); return false;"> &lt;&lt;less</span></span>        
-             
-                </div>
-        
-		    </div>
-    
-    	<div class="rev_b1">
-                <span class="rev_bar" title="Like this review">7 Likes · <a href="//www.novelupdates.com/login/" class="rev_help">Like</a></span>
-                
-        <span style="float:right;"><a class="permrev" href="//www.novelupdates.com/fdrev/?comid=53066&sid=9016" style="color:#8D8D8D !important;">Permalink</a> | <a href="//www.novelupdates.com/login/" title="Report Review" style="color:#8D8D8D !important;" class="my_popupreport_open">Report</a></span>        
-        
-        </div>
-
-
-    
 
 
 <div class="w-comments-item" id="comment-43131">
@@ -2060,9 +1824,300 @@ All that said I kinda like it anyway, and want to know where it will go, but the
 		    </div>
     
     	<div class="rev_b1">
-                <span class="rev_bar" title="Like this review">6 Likes · <a href="//www.novelupdates.com/login/" class="rev_help">Like</a></span>
+                <span class="rev_bar" title="Like this review">12 Likes · <a href="//www.novelupdates.com/login/" class="rev_help">Like</a></span>
                 
         <span style="float:right;"><a class="permrev" href="//www.novelupdates.com/fdrev/?comid=43131&sid=9016" style="color:#8D8D8D !important;">Permalink</a> | <a href="//www.novelupdates.com/login/" title="Report Review" style="color:#8D8D8D !important;" class="my_popupreport_open">Report</a></span>        
+        
+        </div>
+
+
+    
+
+
+<div class="w-comments-item" id="comment-31645">
+            <div class="rev_left">
+            
+            <img alt='spectrearc' src='https://forum.novelupdates.com/styles/flatawesome/xenforo/avatars/avatar_m.png' class='avatar avatar-50 photo' height='50' width='50' />            
+                                                </div>
+		<div class="w-comments-item-meta-new">
+        
+        
+                        
+                <table style="width: 89%; line-height: 23px; position: relative; top: 10px;">
+        <tbody>
+        	<tr style="background-color:transparent;">
+				<td valign="top">
+				<div>
+				<div>
+				</div>
+				</div>
+                                				<a id="revname" class="revname31645" href="//www.novelupdates.com/readlist/?uname=spectrearc" title="View spectrearc's Public Reading List">spectrearc</a> rated it <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><br>
+				                <div><a href="//www.novelupdates.com/more-reviews/?uname=spectrearc">Other reviews by this user</a></div>
+                				</td>
+                
+                                        <td style="text-align: right;" valign="top"><div style="text-align: right;">February 10, 2017</div>
+							<div>Status: <span style="font-weight:bold;" id="stat31645">c1945</span></div>
+						</td>
+                            	</tr>
+                </tbody>
+                </table>
+			<div class="w-comments-item-icon">
+							</div>
+            			<div class="w-comments-item-author"></div>
+            
+			
+		</div>
+		<div class="w-comments-item-text ">
+                
+        
+        
+<div class="sp-wrap sp-wrap-yellow">
+<div class="sp-head" title="Expand">
+Spoiler
+</div>
+<div class="sp-body folded">
+<p>
+The novel is reasonably well written. Plot is cogent, and generally well developed. It's nice seeing an overarching plot unfold as the chapters flow on.</p>
+<p>Cons</p>
+<p>- Author likes to exaggerate the good points of the main character. Expect males the MC sees to fall in love with her at first sight.</p>
+<p>- Expect everything the MC does to be perfect, every female character (barring a few) to hate her for her beauty etc., the cliches are everywhere.</p>
+<p>- Chapters are extremely short.</p>
+<p>General comments</p>
+<p>- There will be some tragedy within the novel; this is used in a way that it sometimes seems the author ran out of ideas and just wants to demolish the current plot setting.</p>
+<p>- The antagonists will tarry on - the author will make you loathe them, and they won't be easily killed off.</p>
+<p>As at 1900+ we're in the midst of the 2nd (?) arc, and the story is still developing.</p>
+<div class="spdiv">[collapse]</div>
+</div>
+</div>
+        
+             
+                </div>
+        
+		    </div>
+    
+    	<div class="rev_b1">
+                <span class="rev_bar" title="Like this review">11 Likes · <a href="//www.novelupdates.com/login/" class="rev_help">Like</a></span>
+                
+        <span style="float:right;"><a class="permrev" href="//www.novelupdates.com/fdrev/?comid=31645&sid=9016" style="color:#8D8D8D !important;">Permalink</a> | <a href="//www.novelupdates.com/login/" title="Report Review" style="color:#8D8D8D !important;" class="my_popupreport_open">Report</a></span>        
+        
+        </div>
+
+
+    
+
+
+<div class="w-comments-item" id="comment-53066">
+            <div class="rev_left">
+            
+            <img alt='Mou' src='https://forum.novelupdates.com/styles/flatawesome/xenforo/avatars/avatar_m.png' class='avatar avatar-50 photo' height='50' width='50' />            
+                                                </div>
+		<div class="w-comments-item-meta-new">
+        
+        
+                        
+                <table style="width: 89%; line-height: 23px; position: relative; top: 10px;">
+        <tbody>
+        	<tr style="background-color:transparent;">
+				<td valign="top">
+				<div>
+				<div>
+				</div>
+				</div>
+                                				<a id="revname" class="revname53066" href="//www.novelupdates.com/readlist/?uname=Mou" title="View Mou's Public Reading List">Mou</a> rated it <i class="fa fa-star"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><br>
+				                <div><a href="//www.novelupdates.com/more-reviews/?uname=Mou">Other reviews by this user</a></div>
+                				</td>
+                
+                                        <td style="text-align: right;" valign="top"><div style="text-align: right;">September 30, 2017</div>
+							<div>Status: <span style="font-weight:bold;" id="stat53066">--</span></div>
+						</td>
+                            	</tr>
+                </tbody>
+                </table>
+			<div class="w-comments-item-icon">
+							</div>
+            			<div class="w-comments-item-author"></div>
+            
+			
+		</div>
+		<div class="w-comments-item-text ">
+                
+        
+        First I would like to say that I like transmigration novels with strong female leads. BUT I COULD NOT BRING MYSELF TO READ THIS ONE. This novel is a detailed description of s*xual harassment and eve teasing and is moving towards much worse things. If teenage and other similar age groups are reading this novel, then it ts teaching the boys that harassing and s*xually abusing a girl is an expression of love. And teaching the girls that if a handsome, strong and powerful guy, or any guy for that<span class="dots">... </span><span class="morelink" href="#" onclick="showtext(this); return false;">more>></span><span style="display:none"> matter,  should harass them, they should be all flattered instead of, at the least, running in the opposite direction, if they are not able to fight back. I don't know what kind of message the author is trying to send, but this is like a report on two people with psychological issues of the very twisted variety, not a novel.<p></p>
+Sorry if I offended someone. But I thought it better to be transperent on these matters.<p></p>
+Again I apologise.<span class="morelink" href="#" onclick="hidetext(this); return false;"> &lt;&lt;less</span></span>        
+             
+                </div>
+        
+		    </div>
+    
+    	<div class="rev_b1">
+                <span class="rev_bar" title="Like this review">9 Likes · <a href="//www.novelupdates.com/login/" class="rev_help">Like</a></span>
+                
+        <span style="float:right;"><a class="permrev" href="//www.novelupdates.com/fdrev/?comid=53066&sid=9016" style="color:#8D8D8D !important;">Permalink</a> | <a href="//www.novelupdates.com/login/" title="Report Review" style="color:#8D8D8D !important;" class="my_popupreport_open">Report</a></span>        
+        
+        </div>
+
+
+    
+
+
+<div class="w-comments-item" id="comment-28394">
+            <div class="rev_left">
+            
+            <img alt='Kittybear' src='https://forum.novelupdates.com/data/avatars/m/27/27251.jpg?1480803317' class='avatar avatar-50 photo' height='50' width='50' />            
+                                                </div>
+		<div class="w-comments-item-meta-new">
+        
+        
+                        
+                <table style="width: 89%; line-height: 23px; position: relative; top: 10px;">
+        <tbody>
+        	<tr style="background-color:transparent;">
+				<td valign="top">
+				<div>
+				<div>
+				</div>
+				</div>
+                                				<a id="revname" class="revname28394" href="//www.novelupdates.com/readlist/?uname=Kittybear" title="View Kittybear's Public Reading List">Kittybear</a> rated it <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><br>
+				                <div><a href="//www.novelupdates.com/more-reviews/?uname=Kittybear">Other reviews by this user</a></div>
+                				</td>
+                
+                                        <td style="text-align: right;" valign="top"><div style="text-align: right;">January 6, 2017</div>
+							<div>Status: <span style="font-weight:bold;" id="stat28394">c5</span></div>
+						</td>
+                            	</tr>
+                </tbody>
+                </table>
+			<div class="w-comments-item-icon">
+							</div>
+            			<div class="w-comments-item-author"></div>
+            
+			
+		</div>
+		<div class="w-comments-item-text ">
+                
+        
+        Pretty good in my opinion. Don't read this if your wanting serious or dark kind of plot. This is a typical Xuanhuan novel with a super OP female lead. I happen to love her because she is my favorite type of character. The type that has no bullsh*t threats that never come to be and actually lives up to the name of being a super assassin instead of just the usual "gotta cultivate first to kill people the normal way." She actually kills people without cultivation in a way a<span class="dots">... </span><span class="morelink" href="#" onclick="showtext(this); return false;">more>></span><span style="display:none"> super gold medal assassin should.<span class="morelink" href="#" onclick="hidetext(this); return false;"> &lt;&lt;less</span></span>        
+             
+                </div>
+        
+		    </div>
+    
+    	<div class="rev_b1">
+                <span class="rev_bar" title="Like this review">8 Likes · <a href="//www.novelupdates.com/login/" class="rev_help">Like</a></span>
+                
+        <span style="float:right;"><a class="permrev" href="//www.novelupdates.com/fdrev/?comid=28394&sid=9016" style="color:#8D8D8D !important;">Permalink</a> | <a href="//www.novelupdates.com/login/" title="Report Review" style="color:#8D8D8D !important;" class="my_popupreport_open">Report</a></span>        
+        
+        </div>
+
+
+    
+
+
+<div class="w-comments-item" id="comment-61575">
+            <div class="rev_left">
+            
+            <img alt='Husby' src='https://forum.novelupdates.com/styles/flatawesomedark/xenforo/avatars/avatar_m.png' class='avatar avatar-50 photo' height='50' width='50' />            
+                                                </div>
+		<div class="w-comments-item-meta-new">
+        
+        
+                        
+                <table style="width: 89%; line-height: 23px; position: relative; top: 10px;">
+        <tbody>
+        	<tr style="background-color:transparent;">
+				<td valign="top">
+				<div>
+				<div>
+				</div>
+				</div>
+                                				<a id="revname" class="revname61575" href="//www.novelupdates.com/readlist/?uname=Husby" title="View Husby's Public Reading List">Husby</a> rated it <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><br>
+				                <div><a href="//www.novelupdates.com/more-reviews/?uname=Husby">Other reviews by this user</a></div>
+                				</td>
+                
+                                        <td style="text-align: right;" valign="top"><div style="text-align: right;">January 4, 2018</div>
+							<div>Status: <span style="font-weight:bold;" id="stat61575">c261</span></div>
+						</td>
+                            	</tr>
+                </tbody>
+                </table>
+			<div class="w-comments-item-icon">
+							</div>
+            			<div class="w-comments-item-author"></div>
+            
+			
+		</div>
+		<div class="w-comments-item-text ">
+                
+        
+        I've read countless novels eerily similar to this one already. It brings nothing new and exciting to the table. Standard "face slapping" novel with a female MC that praises her to the heavens at any opportunities. She's supposed to be fair and strong of mind, but ends up being far too long winded and weak in most respects. I mean any supposedly respectable woman who can't even stand her ground due to being in the presence of a beautiful man is pathetic. She's not a cold and intelligent woman, she's<span class="dots">... </span><span class="morelink" href="#" onclick="showtext(this); return false;">more>></span><span style="display:none"> a 12 year old girl who just met Justin Bieber.<p></p>
+The female MC despite what everyone else will tell you is not OP at all. She has great talent and progresses fast, but the way the story is written she will never be OP. The ones that antagonizes her will always be much stronger than her and only the servants of said person might be at the same level as her. Leaving it to the ML to be the one that's actually OP who has to save the day at the most important parts.<p></p>
+In any case that's just my personal issues with these stories which I always hope will finally bring a strong female MC with mature thinking, but always falls far too short. The issues with the author isn't anything new either. Bet I could pick out a random neighbor who writes just as good. The whole story hinges on misunderstanding which would not exist in any other universe than that which is this authors (and many others like it) novel. Tens of chapters of arguing like little children, one short sentence at a time. A good chapter is one where there are more than 4 lines of dialogue. Instead we get a couple of lines of talking and 20 lines describing this new beautiful dude or the ML. The little dialogue we get is abysmal as well considering those "conversations" that spans tens of chapters in the end leaves the people misunderstanding each other despite the situation being so damn easy to interpret just by looking that you didn't need to spend those tens of chapters speaking about this to begin with. These supposedly super strong, super intelligent people can make a discussion about apples turn into an entire arc that deals with yet another idiot that wants to kill MC over nothing, or the MC or ML starting god damn wars due to being jealous for no reason and refusing to act like god damn adults.<p></p>
+In the end it's a sh*t novel. If you like novels that hype up the female MC with her falling short in every way and introduces hot man children who interacts with this failure of a woman for some reason, and the gaggle of women who loves these man children so much that any other person (MC, always just MC) who gains their interest is put on the top of their list of people who will die TONIGHT! Also a plot that because of the ineptitude of the author not evolves to be more interesting, but instead becomes more and more complicated in idiotic turns of events that makes no sense...<br />
+Then go on and read it. You'll never finish it though, only a select few people are capable of that kind of seizure inducing task. Go read the spoilers on the forum when you get tired and end it.<span class="morelink" href="#" onclick="hidetext(this); return false;"> &lt;&lt;less</span></span>        
+             
+                </div>
+        
+		    </div>
+    
+    	<div class="rev_b1">
+                <span class="rev_bar" title="Like this review">6 Likes · <a href="//www.novelupdates.com/login/" class="rev_help">Like</a></span>
+                
+        <span style="float:right;"><a class="permrev" href="//www.novelupdates.com/fdrev/?comid=61575&sid=9016" style="color:#8D8D8D !important;">Permalink</a> | <a href="//www.novelupdates.com/login/" title="Report Review" style="color:#8D8D8D !important;" class="my_popupreport_open">Report</a></span>        
+        
+        </div>
+
+
+    
+
+
+<div class="w-comments-item" id="comment-48466">
+            <div class="rev_left">
+            
+            <img alt='haruhi91' src='https://forum.novelupdates.com/styles/flatawesome/xenforo/avatars/avatar_m.png' class='avatar avatar-50 photo' height='50' width='50' />            
+                                                </div>
+		<div class="w-comments-item-meta-new">
+        
+        
+                        
+                <table style="width: 89%; line-height: 23px; position: relative; top: 10px;">
+        <tbody>
+        	<tr style="background-color:transparent;">
+				<td valign="top">
+				<div>
+				<div>
+				</div>
+				</div>
+                                				<a id="revname" class="revname48466" href="//www.novelupdates.com/readlist/?uname=haruhi91" title="View haruhi91's Public Reading List">haruhi91</a> rated it <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><br>
+				                <div><a href="//www.novelupdates.com/more-reviews/?uname=haruhi91">Other reviews by this user</a></div>
+                				</td>
+                
+                                        <td style="text-align: right;" valign="top"><div style="text-align: right;">August 13, 2017</div>
+							<div>Status: <span style="font-weight:bold;" id="stat48466">c130</span></div>
+						</td>
+                            	</tr>
+                </tbody>
+                </table>
+			<div class="w-comments-item-icon">
+							</div>
+            			<div class="w-comments-item-author"></div>
+            
+			
+		</div>
+		<div class="w-comments-item-text ">
+                
+        
+        I am surprised how volarenovels picked up such a novel full of the usual hateful clichès. I like reading transmigrated novel, so, although the beginning is similar to many other novels, as long as the plot or the characters are interesting, I would enjoy it. The first chapters were not bad, up until the first meeting with the ML where I pretty much lose hope for expecting a not mediocre novel. Can you guess what will happen? A breathtakingly handsome man emitting a cold aurea, immensely strong at martial art,<span class="dots">... </span><span class="morelink" href="#" onclick="showtext(this); return false;">more>></span><span style="display:none"> who has never laid his eyes upon any woman, as soon as he sees the MC, he is inexplicably attracted to her. He will sneak on her, trying to hug her and threatening her if she does not comply. </P>
+I had the illusion the MC could put up a bit of resistance, after all, the novel's description describes her as "I am my own, no one can decide my future", but we are quickly condemned to assist to a loop of encounters where the ML appears, grabs, kisses her, she tries to "resist" a couple of seconds and then she can only think "ooh, he is beautiful, I am melting". I understand that this type of scenario can be hot for teenager girls but, really, I can't stand it. Apart from these hot moments, the plot does not offer much, the ML is too OP and the MC becomes very OP quickly. She is another earth-breaking beauty, with an unlimited internal space, she has spent years learning how to cook nutricious dishes and, of course, she is hated by anyone. I dropped around 130 chapters without remorse.<span class="morelink" href="#" onclick="hidetext(this); return false;"> &lt;&lt;less</span></span>        
+             
+                </div>
+        
+		    </div>
+    
+    	<div class="rev_b1">
+                <span class="rev_bar" title="Like this review">6 Likes · <a href="//www.novelupdates.com/login/" class="rev_help">Like</a></span>
+                
+        <span style="float:right;"><a class="permrev" href="//www.novelupdates.com/fdrev/?comid=48466&sid=9016" style="color:#8D8D8D !important;">Permalink</a> | <a href="//www.novelupdates.com/login/" title="Report Review" style="color:#8D8D8D !important;" class="my_popupreport_open">Report</a></span>        
         
         </div>
 
@@ -2113,9 +2168,69 @@ All that said I kinda like it anyway, and want to know where it will go, but the
 		    </div>
     
     	<div class="rev_b1">
-                <span class="rev_bar" title="Like this review">4 Likes · <a href="//www.novelupdates.com/login/" class="rev_help">Like</a></span>
+                <span class="rev_bar" title="Like this review">6 Likes · <a href="//www.novelupdates.com/login/" class="rev_help">Like</a></span>
                 
         <span style="float:right;"><a class="permrev" href="//www.novelupdates.com/fdrev/?comid=47157&sid=9016" style="color:#8D8D8D !important;">Permalink</a> | <a href="//www.novelupdates.com/login/" title="Report Review" style="color:#8D8D8D !important;" class="my_popupreport_open">Report</a></span>        
+        
+        </div>
+
+
+    
+
+
+<div class="w-comments-item" id="comment-29990">
+            <div class="rev_left">
+            
+            <img alt='chibiheaven' src='https://forum.novelupdates.com/data/avatars/m/45/45970.jpg?1484552554' class='avatar avatar-50 photo' height='50' width='50' />            
+                                                </div>
+		<div class="w-comments-item-meta-new">
+        
+        
+                        
+                <table style="width: 89%; line-height: 23px; position: relative; top: 10px;">
+        <tbody>
+        	<tr style="background-color:transparent;">
+				<td valign="top">
+				<div>
+				<div>
+				</div>
+				</div>
+                                				<a id="revname" class="revname29990" href="//www.novelupdates.com/readlist/?uname=chibiheaven" title="View chibiheaven's Public Reading List">chibiheaven</a> rated it <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><br>
+				                <div><a href="//www.novelupdates.com/more-reviews/?uname=chibiheaven">Other reviews by this user</a></div>
+                				</td>
+                
+                                        <td style="text-align: right;" valign="top"><div style="text-align: right;">January 24, 2017</div>
+							<div>Status: <span style="font-weight:bold;" id="stat29990">c390</span></div>
+						</td>
+                            	</tr>
+                </tbody>
+                </table>
+			<div class="w-comments-item-icon">
+							</div>
+            			<div class="w-comments-item-author"></div>
+            
+			
+		</div>
+		<div class="w-comments-item-text ">
+                
+        
+        Edit:<p></p>
+With a few more chapters under my belt now, I think I can conclude that I absolutely hate the male lead and honestly can't see how any remarkable relationship could possibly form with the way the male lead acts. I realize that it's a common trend for the male lead to think themselves above others and believe females should prostrate themselves and be at their beck and call. It's just unsettling to me, and a bit forced. </P>
+ <p></p>
+------<p></p>
+The MC is really overbearing. Some people might be into that, I<span class="dots">... </span><span class="morelink" href="#" onclick="showtext(this); return false;">more>></span><span style="display:none"> suppose. </P>
+Technically I shouldn't have rated yet since it's still a bit too early for me to judge how I feel about the story in generally. </P>
+So far, it's started off pretty stereotypical with the female assassin transmigrating into a previously useless female's body and arousing the interest of the intended male interest. </P>
+I will continue to read and change my rating accordingly.<span class="morelink" href="#" onclick="hidetext(this); return false;"> &lt;&lt;less</span></span>        
+             
+                </div>
+        
+		    </div>
+    
+    	<div class="rev_b1">
+                <span class="rev_bar" title="Like this review">5 Likes · <a href="//www.novelupdates.com/login/" class="rev_help">Like</a></span>
+                
+        <span style="float:right;"><a class="permrev" href="//www.novelupdates.com/fdrev/?comid=29990&sid=9016" style="color:#8D8D8D !important;">Permalink</a> | <a href="//www.novelupdates.com/login/" title="Report Review" style="color:#8D8D8D !important;" class="my_popupreport_open">Report</a></span>        
         
         </div>
 
@@ -2263,66 +2378,6 @@ The plot is pretty standard, so I would deduct half a point for that. However, I
     
 
 
-<div class="w-comments-item" id="comment-29990">
-            <div class="rev_left">
-            
-            <img alt='chibiheaven' src='https://forum.novelupdates.com/data/avatars/m/45/45970.jpg?1484552554' class='avatar avatar-50 photo' height='50' width='50' />            
-                                                </div>
-		<div class="w-comments-item-meta-new">
-        
-        
-                        
-                <table style="width: 89%; line-height: 23px; position: relative; top: 10px;">
-        <tbody>
-        	<tr style="background-color:transparent;">
-				<td valign="top">
-				<div>
-				<div>
-				</div>
-				</div>
-                                				<a id="revname" class="revname29990" href="//www.novelupdates.com/readlist/?uname=chibiheaven" title="View chibiheaven's Public Reading List">chibiheaven</a> rated it <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><br>
-				                <div><a href="//www.novelupdates.com/more-reviews/?uname=chibiheaven">Other reviews by this user</a></div>
-                				</td>
-                
-                                        <td style="text-align: right;" valign="top"><div style="text-align: right;">January 24, 2017</div>
-							<div>Status: <span style="font-weight:bold;" id="stat29990">c390</span></div>
-						</td>
-                            	</tr>
-                </tbody>
-                </table>
-			<div class="w-comments-item-icon">
-							</div>
-            			<div class="w-comments-item-author"></div>
-            
-			
-		</div>
-		<div class="w-comments-item-text ">
-                
-        
-        Edit:<p></p>
-With a few more chapters under my belt now, I think I can conclude that I absolutely hate the male lead and honestly can't see how any remarkable relationship could possibly form with the way the male lead acts. I realize that it's a common trend for the male lead to think themselves above others and believe females should prostrate themselves and be at their beck and call. It's just unsettling to me, and a bit forced. </P>
- <p></p>
-------<p></p>
-The MC is really overbearing. Some people might be into that, I<span class="dots">... </span><span class="morelink" href="#" onclick="showtext(this); return false;">more>></span><span style="display:none"> suppose. </P>
-Technically I shouldn't have rated yet since it's still a bit too early for me to judge how I feel about the story in generally. </P>
-So far, it's started off pretty stereotypical with the female assassin transmigrating into a previously useless female's body and arousing the interest of the intended male interest. </P>
-I will continue to read and change my rating accordingly.<span class="morelink" href="#" onclick="hidetext(this); return false;"> &lt;&lt;less</span></span>        
-             
-                </div>
-        
-		    </div>
-    
-    	<div class="rev_b1">
-                <span class="rev_bar" title="Like this review">4 Likes · <a href="//www.novelupdates.com/login/" class="rev_help">Like</a></span>
-                
-        <span style="float:right;"><a class="permrev" href="//www.novelupdates.com/fdrev/?comid=29990&sid=9016" style="color:#8D8D8D !important;">Permalink</a> | <a href="//www.novelupdates.com/login/" title="Report Review" style="color:#8D8D8D !important;" class="my_popupreport_open">Report</a></span>        
-        
-        </div>
-
-
-    
-
-
 <div class="w-comments-item" id="comment-28794">
             <div class="rev_left">
             
@@ -2369,60 +2424,6 @@ I will continue to read and change my rating accordingly.<span class="morelink" 
                 <span class="rev_bar" title="Like this review">4 Likes · <a href="//www.novelupdates.com/login/" class="rev_help">Like</a></span>
                 
         <span style="float:right;"><a class="permrev" href="//www.novelupdates.com/fdrev/?comid=28794&sid=9016" style="color:#8D8D8D !important;">Permalink</a> | <a href="//www.novelupdates.com/login/" title="Report Review" style="color:#8D8D8D !important;" class="my_popupreport_open">Report</a></span>        
-        
-        </div>
-
-
-    
-
-
-<div class="w-comments-item" id="comment-48466">
-            <div class="rev_left">
-            
-            <img alt='haruhi91' src='https://forum.novelupdates.com/styles/flatawesome/xenforo/avatars/avatar_m.png' class='avatar avatar-50 photo' height='50' width='50' />            
-                                                </div>
-		<div class="w-comments-item-meta-new">
-        
-        
-                        
-                <table style="width: 89%; line-height: 23px; position: relative; top: 10px;">
-        <tbody>
-        	<tr style="background-color:transparent;">
-				<td valign="top">
-				<div>
-				<div>
-				</div>
-				</div>
-                                				<a id="revname" class="revname48466" href="//www.novelupdates.com/readlist/?uname=haruhi91" title="View haruhi91's Public Reading List">haruhi91</a> rated it <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><br>
-				                <div><a href="//www.novelupdates.com/more-reviews/?uname=haruhi91">Other reviews by this user</a></div>
-                				</td>
-                
-                                        <td style="text-align: right;" valign="top"><div style="text-align: right;">August 13, 2017</div>
-							<div>Status: <span style="font-weight:bold;" id="stat48466">c130</span></div>
-						</td>
-                            	</tr>
-                </tbody>
-                </table>
-			<div class="w-comments-item-icon">
-							</div>
-            			<div class="w-comments-item-author"></div>
-            
-			
-		</div>
-		<div class="w-comments-item-text ">
-                
-        
-        I am surprised how volarenovels picked up such a novel full of the usual hateful clichès. I like reading transmigrated novel, so, although the beginning is similar to many other novels, as long as the plot or the characters are interesting, I would enjoy it. The first chapters were not bad, up until the first meeting with the ML where I pretty much lose hope for expecting a not mediocre novel. Can you guess what will happen? A breathtakingly handsome man emitting a cold aurea, immensely strong at martial art,<span class="dots">... </span><span class="morelink" href="#" onclick="showtext(this); return false;">more>></span><span style="display:none"> who has never laid his eyes upon any woman, as soon as he sees the MC, he is inexplicably attracted to her. He will sneak on her, trying to hug her and threatening her if she does not comply. </P>
-I had the illusion the MC could put up a bit of resistance, after all, the novel's description describes her as "I am my own, no one can decide my future", but we are quickly condemned to assist to a loop of encounters where the ML appears, grabs, kisses her, she tries to "resist" a couple of seconds and then she can only think "ooh, he is beautiful, I am melting". I understand that this type of scenario can be hot for teenager girls but, really, I can't stand it. Apart from these hot moments, the plot does not offer much, the ML is too OP and the MC becomes very OP quickly. She is another earth-breaking beauty, with an unlimited internal space, she has spent years learning how to cook nutricious dishes and, of course, she is hated by anyone. I dropped around 130 chapters without remorse.<span class="morelink" href="#" onclick="hidetext(this); return false;"> &lt;&lt;less</span></span>        
-             
-                </div>
-        
-		    </div>
-    
-    	<div class="rev_b1">
-                <span class="rev_bar" title="Like this review">3 Likes · <a href="//www.novelupdates.com/login/" class="rev_help">Like</a></span>
-                
-        <span style="float:right;"><a class="permrev" href="//www.novelupdates.com/fdrev/?comid=48466&sid=9016" style="color:#8D8D8D !important;">Permalink</a> | <a href="//www.novelupdates.com/login/" title="Report Review" style="color:#8D8D8D !important;" class="my_popupreport_open">Report</a></span>        
         
         </div>
 
@@ -2551,7 +2552,7 @@ My newest addiction of transmigration female protagonist xianxia series ^^
 <div class="w-comments-item" id="comment-58696">
             <div class="rev_left">
             
-            <img alt='TheGamingNerd' src='https://forum.novelupdates.com/data/avatars/m/81/81278.jpg?1510578634' class='avatar avatar-50 photo' height='50' width='50' />            
+            <img alt='TheGamingNerd' src='https://forum.novelupdates.com/data/avatars/m/81/81278.jpg?1517427479' class='avatar avatar-50 photo' height='50' width='50' />            
                                                 </div>
 		<div class="w-comments-item-meta-new">
         
@@ -2964,7 +2965,7 @@ While there isn't much filler, the chapters are certainly on the short side. It'
 	</div>
 
 <span style="font-size: 11px; display: block; width: 0px; margin: -6px auto;">Advertisement</span>
-</div><h3 class="widgettitle_nuf" style="margin-bottom: 5px;">Latest Discussions</h3><div class="nuf_bd"><ul id="nuf_ul"><li id="nuf_li"><div class="messageInfo"><div class="nuf_msgcontent"><a title="Against the Gods" class="nuftrend_link" href="http://forum.novelupdates.com/threads/22830/unread">Against the Gods</a></div><div class="additionalRow muted">0h, 2m ago</div></div></li><li id="nuf_li"><div class="messageInfo"><div class="nuf_msgcontent"><a title="Skeleton Knight, in Another World" class="nuftrend_link" href="http://forum.novelupdates.com/threads/4548/unread">Skeleton Knight, in...</a></div><div class="additionalRow muted">0h, 14m ago</div></div></li><li id="nuf_li"><div class="messageInfo"><div class="nuf_msgcontent"><a title="I Reincarnated For Nothing" class="nuftrend_link" href="http://forum.novelupdates.com/threads/52134/unread">I Reincarnated For...</a></div><div class="additionalRow muted">0h, 28m ago</div></div></li><li id="nuf_li"><div class="messageInfo"><div class="nuf_msgcontent"><a title="True Martial World" class="nuftrend_link" href="http://forum.novelupdates.com/threads/1248/unread">True Martial World</a></div><div class="additionalRow muted">0h, 37m ago</div></div></li><li id="nuf_li"><div class="messageInfo"><div class="nuf_msgcontent"><a title="The Desolate Era" class="nuftrend_link" href="http://forum.novelupdates.com/threads/232/unread">The Desolate Era</a></div><div class="additionalRow muted">0h, 48m ago</div></div></li><li id="nuf_li"><div class="messageInfo"><div class="nuf_msgcontent"><a title="Release that Witch" class="nuftrend_link" href="http://forum.novelupdates.com/threads/11799/unread">Release that Witch</a></div><div class="additionalRow muted">0h, 57m ago</div></div></li><li id="nuf_li"><div class="messageInfo"><div class="nuf_msgcontent"><a title="The Book Eating Magician" class="nuftrend_link" href="http://forum.novelupdates.com/threads/39934/unread">The Book Eating...</a></div><div class="additionalRow muted">1h, 5m ago</div></div></li></ul></div><div class="ad_336" style="margin-top: 25px;">
+</div><h3 class="widgettitle_nuf" style="margin-bottom: 5px;">Latest Discussions</h3><div class="nuf_bd"><ul id="nuf_ul"><li id="nuf_li"><div class="messageInfo"><div class="nuf_msgcontent"><a title="Release that Witch" class="nuftrend_link" href="http://forum.novelupdates.com/threads/11799/unread">Release that Witch</a></div><div class="additionalRow muted">0h, 48m ago</div></div></li><li id="nuf_li"><div class="messageInfo"><div class="nuf_msgcontent"><a title="After Transformation, Mine and Her Wild Fantasy" class="nuftrend_link" href="http://forum.novelupdates.com/threads/6067/unread">After Transformation, Mine...</a></div><div class="additionalRow muted">0h, 49m ago</div></div></li><li id="nuf_li"><div class="messageInfo"><div class="nuf_msgcontent"><a title="Dragon Poor" class="nuftrend_link" href="http://forum.novelupdates.com/threads/43707/unread">Dragon Poor</a></div><div class="additionalRow muted">0h, 52m ago</div></div></li><li id="nuf_li"><div class="messageInfo"><div class="nuf_msgcontent"><a title="Shadow Hack" class="nuftrend_link" href="http://forum.novelupdates.com/threads/55846/unread">Shadow Hack</a></div><div class="additionalRow muted">1h, 2m ago</div></div></li><li id="nuf_li"><div class="messageInfo"><div class="nuf_msgcontent"><a title="Green Skin" class="nuftrend_link" href="http://forum.novelupdates.com/threads/40143/unread">Green Skin</a></div><div class="additionalRow muted">1h, 16m ago</div></div></li><li id="nuf_li"><div class="messageInfo"><div class="nuf_msgcontent"><a title="Virtual World: Peerless White Emperor" class="nuftrend_link" href="http://forum.novelupdates.com/threads/38936/unread">Virtual World: Peerless...</a></div><div class="additionalRow muted">1h, 43m ago</div></div></li><li id="nuf_li"><div class="messageInfo"><div class="nuf_msgcontent"><a title="Mechanical God Emperor" class="nuftrend_link" href="http://forum.novelupdates.com/threads/45533/unread">Mechanical God Emperor</a></div><div class="additionalRow muted">1h, 58m ago</div></div></li></ul></div><div class="ad_336" style="margin-top: 25px;">
 
 	<!-- /8095840/.2_8864.4_novelupdates.com_tier1 --> 
 	<div id='div-gpt-ad-1490579123603-0' style='height:250px; width:300px;'>
@@ -3074,10 +3075,10 @@ $(document).ready(function()
 </script><script type='text/javascript' src='https://www.novelupdates.com/wp-content/plugins/user-meta-display/assets/js/scripts-user_meta_display.js?ver=1.2.2'></script>
 <script type='text/javascript' src='https://www.novelupdates.com/wp-content/plugins/yet-another-stars-rating/js/jquery.rateit.min.js?ver=1.0.22'></script>
 <script type='text/javascript' src='https://www.novelupdates.com/wp-content/plugins/yet-another-stars-rating/js/yasr-front.js?ver=1.0.1'></script>
-<script type='text/javascript' src='https://www.novelupdates.com/wp-content/themes/ndupdates/js/jquery.easing.min.js?ver=4.9'></script>
+<script type='text/javascript' src='https://www.novelupdates.com/wp-content/themes/ndupdates/js/jquery.easing.min.js?ver=4.9.2'></script>
 <script type='text/javascript' src='https://www.novelupdates.com/wp-content/themes/ndupdates/js/us.core.js?ver=3.61'></script>
 <script type='text/javascript' src='https://www.novelupdates.com/wp-content/themes/ndupdates/js/us.widgets.js?ver=3.61'></script>
-<script type='text/javascript' src='https://www.novelupdates.com/wp-includes/js/comment-reply.min.js?ver=4.9'></script>
-<script type='text/javascript' src='https://www.novelupdates.com/wp-includes/js/wp-embed.min.js?ver=4.9'></script>
+<script type='text/javascript' src='https://www.novelupdates.com/wp-includes/js/comment-reply.min.js?ver=4.9.2'></script>
+<script type='text/javascript' src='https://www.novelupdates.com/wp-includes/js/wp-embed.min.js?ver=4.9.2'></script>
 </body>
 </html>

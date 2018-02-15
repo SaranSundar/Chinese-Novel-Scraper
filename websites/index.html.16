@@ -22,7 +22,7 @@
 <link rel="alternate" type="application/rss+xml" title="Novel Updates &raquo; Comments Feed" href="https://www.novelupdates.com/comments/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Novel Updates &raquo; Wu Dong Qian Kun Comments Feed" href="https://www.novelupdates.com/series/wu-dong-qian-kun/feed/" />
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.novelupdates.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.novelupdates.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.2"}};
 			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script>
 		<style type="text/css">
@@ -39,16 +39,17 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel='stylesheet' id='theme-my-login-css'  href='https://www.novelupdates.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.4.9' type='text/css' media='all' />
-<link rel='stylesheet' id='bbspoiler-css'  href='https://www.novelupdates.com/wp-content/plugins/bbspoiler/inc/bbspoiler.css?ver=4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://www.novelupdates.com/wp-includes/css/dashicons.min.css?ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='https://www.novelupdates.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.4.10' type='text/css' media='all' />
+<link rel='stylesheet' id='bbspoiler-css'  href='https://www.novelupdates.com/wp-content/plugins/bbspoiler/inc/bbspoiler.css?ver=4.9.2' type='text/css' media='all' />
 <link rel='stylesheet' id='yasrcss-css'  href='https://www.novelupdates.com/wp-content/plugins/yet-another-stars-rating/css/yasr.css' type='text/css' media='all' />
 <link rel='stylesheet' id='yasrcsslightscheme-css'  href='https://www.novelupdates.com/wp-content/plugins/yet-another-stars-rating/css/yasr-table-light.css' type='text/css' media='all' />
 <link rel='stylesheet' id='breadcrumbs-nu-css'  href='https://www.novelupdates.com/wp-content/themes/ndupdates-child/js/breadcrumbs.css?ver=1.1.4' type='text/css' media='' />
 <link rel='stylesheet' id='pagination-nu-css'  href='//cdn.novelupdates.com/js/pg/pagination.css?ver=1.0.9' type='text/css' media='' />
 <link rel='stylesheet' id='com_mce-css'  href='//cdn.novelupdates.com/js/com_mce.css?ver=1.0.1' type='text/css' media='' />
 <link rel='stylesheet' id='ajax-search-posts-css-css'  href='//cdn.novelupdates.com/js/ajax_search.post.css?ver=1.0.4' type='text/css' media='' />
-<link rel='stylesheet' id='us-font-1-css'  href='https://fonts.googleapis.com/css?family=Noto+Sans%3A300%2C400%2C700&#038;subset=latin&#038;ver=4.9' type='text/css' media='all' />
-<link rel='stylesheet' id='us-font-2-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C400italic%2C700%2C700italic%2C300&#038;subset=latin&#038;ver=4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='us-font-1-css'  href='https://fonts.googleapis.com/css?family=Noto+Sans%3A300%2C400%2C700&#038;subset=latin&#038;ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='us-font-2-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C400italic%2C700%2C700italic%2C300&#038;subset=latin&#038;ver=4.9.2' type='text/css' media='all' />
 <link rel='stylesheet' id='us-motioncss-css'  href='https://www.novelupdates.com/wp-content/themes/ndupdates/css/motioncss.css?ver=3.61' type='text/css' media='all' />
 <link rel='stylesheet' id='us-motioncss-responsive-css'  href='https://www.novelupdates.com/wp-content/themes/ndupdates/css/motioncss-responsive.css?ver=3.61' type='text/css' media='all' />
 <link rel='stylesheet' id='us-font-awesome-css'  href='https://www.novelupdates.com/wp-content/themes/ndupdates/css/font-awesome.css?ver=4.3.0' type='text/css' media='all' />
@@ -61,11 +62,11 @@ img.emoji {
 var title = {"unfolded":"Expand","folded":"Collapse"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://www.novelupdates.com/wp-content/plugins/bbspoiler/inc/bbspoiler.js?ver=4.9'></script>
-<script type='text/javascript' src="https://forum.novelupdates.com/api/index.php?assets/sdk&#038;prefix=xfac&#038;ver=4.9"></script>
-<script type='text/javascript' src='https://www.novelupdates.com/wp-content/plugins/xenforo-api-consumer/js/script.js?ver=4.9'></script>
-<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?hl=en-US&#038;ver=4.9'></script>
-<script type='text/javascript' src='https://www.novelupdates.com/wp-content/plugins/theme-my-login/modules/themed-profiles/themed-profiles.js?ver=4.9'></script>
+<script type='text/javascript' src='https://www.novelupdates.com/wp-content/plugins/bbspoiler/inc/bbspoiler.js?ver=4.9.2'></script>
+<script type='text/javascript' src="https://forum.novelupdates.com/api/index.php?assets/sdk&#038;prefix=xfac&#038;ver=4.9.2"></script>
+<script type='text/javascript' src='https://www.novelupdates.com/wp-content/plugins/xenforo-api-consumer/js/script.js?ver=4.9.2'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?hl=en-US&#038;ver=4.9.2'></script>
+<script type='text/javascript' src='https://www.novelupdates.com/wp-content/plugins/theme-my-login/modules/themed-profiles/themed-profiles.js?ver=4.9.2'></script>
 <script type='text/javascript' src='https://www.novelupdates.com/wp-content/themes/ndupdates-child/js/cookieconsent.min.js?ver=1.0.1'></script>
 <script type='text/javascript' src='https://www.novelupdates.com/wp-content/themes/ndupdates-child/js/jquery.tablesorter.min.js?ver=1.0.1'></script>
 <script type='text/javascript' src='//cdn.novelupdates.com/js/popoverlay/jquery.popupoverlay.js?ver=1.0.1'></script>
@@ -85,7 +86,7 @@ var title = {"unfolded":"Expand","folded":"Collapse"};
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.novelupdates.com/wp-includes/wlwmanifest.xml" /> 
 <link rel='prev' title='Tempered Immortal' href='https://www.novelupdates.com/series/tempered-immortal/' />
 <link rel='next' title='The Incompetent Brother and Sister in the Special Ability Academy Seem to Have no Motivation' href='https://www.novelupdates.com/series/the-incompetent-brother-and-sister-in-the-special-ability-academy-seem-to-have-no-motivation/' />
-<meta name="generator" content="WordPress 4.9" />
+<meta name="generator" content="WordPress 4.9.2" />
 <link rel="canonical" href="https://www.novelupdates.com/series/wu-dong-qian-kun/" />
 <link rel='shortlink' href='https://www.novelupdates.com/?p=840' />
 <link rel="alternate" type="application/json+oembed" href="https://www.novelupdates.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.novelupdates.com%2Fseries%2Fwu-dong-qian-kun%2F" />
@@ -1384,27 +1385,27 @@ Not to be used with: Female Protagonist " >Male Protagonist</a> <a class="genre"
 [<i>Tags Hidden</i>]
 </div>
 
-<h5 class="seriesother">Rating<span class="uvotes">(3.7 / 5.0, 932 votes)</span></h5>
+<h5 class="seriesother">Rating<span class="uvotes">(3.7 / 5.0, 941 votes)</span></h5>
 <table cellspacing="1" cellpadding="0" border="0" id="myrates">
 <tbody><tr>
  <td>5&nbsp;&nbsp;</td>
- <td><span class="rating" style="width:21.5%; background-color: #00FF00"></span><span class="votetext">&nbsp;43% (402 votes)</span></td>
+ <td><span class="rating" style="width:21.5%; background-color: #00FF00"></span><span class="votetext">&nbsp;43% (404 votes)</span></td>
 </tr>
 <tr>
  <td>4&nbsp;&nbsp;</td>
- <td><span class="rating" style="width:9.5%; background-color: #66FF00"></span><span class="votetext">&nbsp;19% (180 votes)</span></td>
+ <td><span class="rating" style="width:9.5%; background-color: #66FF00"></span><span class="votetext">&nbsp;19% (183 votes)</span></td>
 </tr>
 <tr>
  <td>3&nbsp;&nbsp;</td>
- <td><span class="rating" style="width:7.5%; background-color: #CCFF00"></span><span class="votetext">&nbsp;15% (141 votes)</span></td>
+ <td><span class="rating" style="width:7.5%; background-color: #CCFF00"></span><span class="votetext">&nbsp;15% (142 votes)</span></td>
 </tr>
 <tr>
  <td>2&nbsp;&nbsp;</td>
- <td><span class="rating" style="width:5.5%; background-color: #FFCC00"></span><span class="votetext">&nbsp;11% (100 votes)</span></td>
+ <td><span class="rating" style="width:5.5%; background-color: #FFCC00"></span><span class="votetext">&nbsp;11% (103 votes)</span></td>
 </tr>
 <tr>
  <td>1&nbsp;&nbsp;</td>
- <td><span class="rating" style="width:6%; background-color: #FF6600"></span><span class="votetext">&nbsp;12% (108 votes)</span></td>
+ <td><span class="rating" style="width:5.5%; background-color: #FF6600"></span><span class="votetext">&nbsp;11% (108 votes)</span></td>
 </tr>
 </tbody></table>
 
@@ -1462,15 +1463,15 @@ No</div>
 <a class="genre" id="myepub" href="https://www.novelupdates.com/epublisher/wuxiaworld/" title="View All Series by Wuxiaworld" >Wuxiaworld</a><br></div>
 
 <h5 class="seriesother">Release Frequency</h5>
-Every 0.4 Day(s)
+Every 0.5 Day(s)
 
-<h5 class="seriesother">Activity Stats <div class="edit">[<span class="editme"><a href="//www.novelupdates.com/rank-graph/?pid=840">Graph</a></span>]</div></h5>Weekly Rank: <span class="userrate rank">#13</span><br>Monthly Rank: <span class="userrate rank">#14</span><br>All Time Rank: <span class="userrate rank">#15</span><br>
+<h5 class="seriesother">Activity Stats <div class="edit">[<span class="editme"><a href="//www.novelupdates.com/rank-graph/?pid=840">Graph</a></span>]</div></h5>Weekly Rank: <span class="userrate rank">#12</span><br>Monthly Rank: <span class="userrate rank">#11</span><br>All Time Rank: <span class="userrate rank">#15</span><br>
 <h5 class="seriesother">Reading List <div class="edit">[<span class="editme"><a href="//www.novelupdates.com/rank-graph/?pid=840">Graph</a></span>]</div></h5>
 
 
-On <b class="rlist">11365</b> Reading Lists
+On <b class="rlist">11457</b> Reading Lists
 
-<br>Monthly Rank: <span class="userrate rank">#16</span><br>All Time Rank: <span class="userrate rank">#34</span>
+<br>Monthly Rank: <span class="userrate rank">#11</span><br>All Time Rank: <span class="userrate rank">#35</span>
 
 </div> 
 	</div> 
@@ -1490,7 +1491,7 @@ On <b class="rlist">11365</b> Reading Lists
 <span itemprop="name">Wu Dong Qian Kun</span>
 <span itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating"> average rating 
 <span itemprop="ratingValue">3.7</span>/<span itemprop="bestRating">5</span> - 
-<span itemprop="ratingCount">932</span> user ratings</span></div>
+<span itemprop="ratingCount">941</span> user ratings</span></div>
 <h5 class="seriesother associated">Associated Names</h5>
 <span class="editmsg">One entry per line</span>
 <div id="editassociated">Earth-Shattering Martial Arts<br>Martial Movement Upheaval<br>Martial Universe<br>WDQK<br>武动乾坤</div>
@@ -1528,137 +1529,137 @@ On <b class="rlist">11365</b> Reading Lists
                   
                 
     <tr>
-	<td width="20%" style="padding-left:5px;">01/31/18</td>
+	<td width="20%" style="padding-left:5px;">02/15/18</td>
     <td width="45%">
 	<a href="https://www.novelupdates.com/group/wuxiaworld/">Wuxiaworld</a>    </td>
     <td width="20%">
-	<a title="c1051" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1209125/" rel="nofollow">c1051</a><a title="c1051" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1209126/" rel="nofollow">c1051</a>    </td>
+	<a title="c1081" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1252623/" rel="nofollow">c1081</a><a title="c1081" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1252624/" rel="nofollow">c1081</a>    </td>
 	</tr>
                 
                 
     <tr>
-	<td width="20%" style="padding-left:5px;">01/31/18</td>
+	<td width="20%" style="padding-left:5px;">02/14/18</td>
     <td width="45%">
 	<a href="https://www.novelupdates.com/group/wuxiaworld/">Wuxiaworld</a>    </td>
     <td width="20%">
-	<a title="c1050" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1206988/" rel="nofollow">c1050</a><a title="c1050" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1206989/" rel="nofollow">c1050</a>    </td>
+	<a title="c1080" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1250840/" rel="nofollow">c1080</a><a title="c1080" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1250841/" rel="nofollow">c1080</a>    </td>
 	</tr>
                 
                 
     <tr>
-	<td width="20%" style="padding-left:5px;">01/30/18</td>
+	<td width="20%" style="padding-left:5px;">02/14/18</td>
     <td width="45%">
 	<a href="https://www.novelupdates.com/group/wuxiaworld/">Wuxiaworld</a>    </td>
     <td width="20%">
-	<a title="c1049" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1206014/" rel="nofollow">c1049</a><a title="c1049" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1206015/" rel="nofollow">c1049</a>    </td>
+	<a title="c1079" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1249502/" rel="nofollow">c1079</a><a title="c1079" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1249503/" rel="nofollow">c1079</a>    </td>
 	</tr>
                 
                 
     <tr>
-	<td width="20%" style="padding-left:5px;">01/30/18</td>
+	<td width="20%" style="padding-left:5px;">02/13/18</td>
     <td width="45%">
 	<a href="https://www.novelupdates.com/group/wuxiaworld/">Wuxiaworld</a>    </td>
     <td width="20%">
-	<a title="c1048" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1205389/" rel="nofollow">c1048</a><a title="c1048" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1205390/" rel="nofollow">c1048</a>    </td>
+	<a title="c1078" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1247505/" rel="nofollow">c1078</a><a title="c1078" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1247506/" rel="nofollow">c1078</a>    </td>
 	</tr>
                 
                 
     <tr>
-	<td width="20%" style="padding-left:5px;">01/30/18</td>
+	<td width="20%" style="padding-left:5px;">02/13/18</td>
     <td width="45%">
 	<a href="https://www.novelupdates.com/group/wuxiaworld/">Wuxiaworld</a>    </td>
     <td width="20%">
-	<a title="c1047" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1204466/" rel="nofollow">c1047</a><a title="c1047" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1204467/" rel="nofollow">c1047</a>    </td>
+	<a title="c1077" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1246995/" rel="nofollow">c1077</a><a title="c1077" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1246996/" rel="nofollow">c1077</a>    </td>
 	</tr>
                 
                 
     <tr>
-	<td width="20%" style="padding-left:5px;">01/29/18</td>
+	<td width="20%" style="padding-left:5px;">02/12/18</td>
     <td width="45%">
 	<a href="https://www.novelupdates.com/group/wuxiaworld/">Wuxiaworld</a>    </td>
     <td width="20%">
-	<a title="c1046" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1203109/" rel="nofollow">c1046</a><a title="c1046" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1203110/" rel="nofollow">c1046</a>    </td>
+	<a title="c1076" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1245799/" rel="nofollow">c1076</a><a title="c1076" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1245800/" rel="nofollow">c1076</a>    </td>
 	</tr>
                 
                 
     <tr>
-	<td width="20%" style="padding-left:5px;">01/29/18</td>
+	<td width="20%" style="padding-left:5px;">02/12/18</td>
     <td width="45%">
 	<a href="https://www.novelupdates.com/group/wuxiaworld/">Wuxiaworld</a>    </td>
     <td width="20%">
-	<a title="c1045" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1201689/" rel="nofollow">c1045</a><a title="c1045" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1201690/" rel="nofollow">c1045</a>    </td>
+	<a title="c1075" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1244938/" rel="nofollow">c1075</a><a title="c1075" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1244939/" rel="nofollow">c1075</a>    </td>
 	</tr>
                 
                 
     <tr>
-	<td width="20%" style="padding-left:5px;">01/28/18</td>
+	<td width="20%" style="padding-left:5px;">02/12/18</td>
     <td width="45%">
 	<a href="https://www.novelupdates.com/group/wuxiaworld/">Wuxiaworld</a>    </td>
     <td width="20%">
-	<a title="c1044" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1199953/" rel="nofollow">c1044</a><a title="c1044" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1199954/" rel="nofollow">c1044</a>    </td>
+	<a title="c1074" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1244053/" rel="nofollow">c1074</a><a title="c1074" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1244054/" rel="nofollow">c1074</a>    </td>
 	</tr>
                 
                 
     <tr>
-	<td width="20%" style="padding-left:5px;">01/28/18</td>
+	<td width="20%" style="padding-left:5px;">02/11/18</td>
     <td width="45%">
 	<a href="https://www.novelupdates.com/group/wuxiaworld/">Wuxiaworld</a>    </td>
     <td width="20%">
-	<a title="c1043" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1198706/" rel="nofollow">c1043</a><a title="c1043" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1198707/" rel="nofollow">c1043</a>    </td>
+	<a title="c1073" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1243043/" rel="nofollow">c1073</a><a title="c1073" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1243044/" rel="nofollow">c1073</a>    </td>
 	</tr>
                 
                 
     <tr>
-	<td width="20%" style="padding-left:5px;">01/27/18</td>
+	<td width="20%" style="padding-left:5px;">02/11/18</td>
     <td width="45%">
 	<a href="https://www.novelupdates.com/group/wuxiaworld/">Wuxiaworld</a>    </td>
     <td width="20%">
-	<a title="c1042" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1196658/" rel="nofollow">c1042</a><a title="c1042" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1196659/" rel="nofollow">c1042</a>    </td>
+	<a title="c1072" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1241154/" rel="nofollow">c1072</a><a title="c1072" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1241155/" rel="nofollow">c1072</a>    </td>
 	</tr>
                 
                 
     <tr>
-	<td width="20%" style="padding-left:5px;">01/27/18</td>
+	<td width="20%" style="padding-left:5px;">02/10/18</td>
     <td width="45%">
 	<a href="https://www.novelupdates.com/group/wuxiaworld/">Wuxiaworld</a>    </td>
     <td width="20%">
-	<a title="c1041" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1195639/" rel="nofollow">c1041</a><a title="c1041" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1195640/" rel="nofollow">c1041</a>    </td>
+	<a title="c1071" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1240041/" rel="nofollow">c1071</a><a title="c1071" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1240042/" rel="nofollow">c1071</a>    </td>
 	</tr>
                 
                 
     <tr>
-	<td width="20%" style="padding-left:5px;">01/26/18</td>
+	<td width="20%" style="padding-left:5px;">02/10/18</td>
     <td width="45%">
 	<a href="https://www.novelupdates.com/group/wuxiaworld/">Wuxiaworld</a>    </td>
     <td width="20%">
-	<a title="c1040" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1194001/" rel="nofollow">c1040</a><a title="c1040" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1194002/" rel="nofollow">c1040</a>    </td>
+	<a title="c1070" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1238362/" rel="nofollow">c1070</a><a title="c1070" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1238363/" rel="nofollow">c1070</a>    </td>
 	</tr>
                 
                 
     <tr>
-	<td width="20%" style="padding-left:5px;">01/26/18</td>
+	<td width="20%" style="padding-left:5px;">02/09/18</td>
     <td width="45%">
 	<a href="https://www.novelupdates.com/group/wuxiaworld/">Wuxiaworld</a>    </td>
     <td width="20%">
-	<a title="c1039" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1192895/" rel="nofollow">c1039</a><a title="c1039" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1192896/" rel="nofollow">c1039</a>    </td>
+	<a title="c1068-1069" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1235462/" rel="nofollow">c1068-1069</a><a title="c1068-1069" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1235463/" rel="nofollow">c1068-1069</a>    </td>
 	</tr>
                 
                 
     <tr>
-	<td width="20%" style="padding-left:5px;">01/25/18</td>
+	<td width="20%" style="padding-left:5px;">02/08/18</td>
     <td width="45%">
 	<a href="https://www.novelupdates.com/group/wuxiaworld/">Wuxiaworld</a>    </td>
     <td width="20%">
-	<a title="c1038" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1191286/" rel="nofollow">c1038</a><a title="c1038" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1191287/" rel="nofollow">c1038</a>    </td>
+	<a title="c1067" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1234241/" rel="nofollow">c1067</a><a title="c1067" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1234242/" rel="nofollow">c1067</a>    </td>
 	</tr>
                 
                 
     <tr>
-	<td width="20%" style="padding-left:5px;">01/25/18</td>
+	<td width="20%" style="padding-left:5px;">02/08/18</td>
     <td width="45%">
 	<a href="https://www.novelupdates.com/group/wuxiaworld/">Wuxiaworld</a>    </td>
     <td width="20%">
-	<a title="c1037" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1189480/" rel="nofollow">c1037</a><a title="c1037" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1189481/" rel="nofollow">c1037</a>    </td>
+	<a title="c1066" class="chp-release rand5251s" href="//www.novelupdates.com/extnu/1232423/" rel="nofollow">c1066</a><a title="c1066" class="chp-release rand3421s" href="//www.novelupdates.com/extnu/1232424/" rel="nofollow">c1066</a>    </td>
 	</tr>
             </tbody>
 	</table>               
@@ -1666,7 +1667,7 @@ On <b class="rlist">11365</b> Reading Lists
        
      
         
-<div class="digg_pagination" style=""><em class="current">1</em><a href="./?pg=2">2</a><a href="./?pg=3">3</a><span class="my_popup_a_open">…</span><a href="./?pg=70">70</a><a href="./?pg=2" rel="next" class="next_page"> →</a></div><div id="my_popup_b">
+<div class="digg_pagination" style=""><em class="current">1</em><a href="./?pg=2">2</a><a href="./?pg=3">3</a><span class="my_popup_a_open">…</span><a href="./?pg=72">72</a><a href="./?pg=2" rel="next" class="next_page"> →</a></div><div id="my_popup_b">
   	<div class="page_digg_bg">
   	<div class="page_digg_title">Go to Page...</div>
     <input type="text" name="p_num_b" id="p_num_b" onkeydown="if (event.keyCode == 13) { document.getElementById('mypu_b_button').click(); }">
@@ -1739,10 +1740,147 @@ document.write('<scr'+'ipt src="//titangate-d.openx.net/w/1.0/jstag"><\/scr'+'ip
     <div class="btnrev-group sort-reviews pull-right">
 		   <button data-filter="helpfulness" class="btnrev btnrev-inverse active" onclick="changesort('helpfulnew','https://www.novelupdates.com/series/wu-dong-qian-kun//#comments');">Likes <i class="fa fa-angle-down" aria-hidden="true"></i></button>
 		                <button data-filter="date" class="btnrev btnrev-inverse" onclick="changesort('datenew','https://www.novelupdates.com/series/wu-dong-qian-kun//#comments');">Date <i class="fa fa-angle-down" aria-hidden="true"></i></button>
-            </div><div class="review-count pull-right">53 Reviews sorted by</div><br><br><div class="r_line"></div>
+            </div><div class="review-count pull-right">55 Reviews sorted by</div><br><br><div class="r_line"></div>
 	<div class="w-comments-list">
         
         
+
+
+<div class="w-comments-item" id="comment-65209">
+            <div class="rev_left">
+            
+            <img alt='Lalloushh' src='https://forum.novelupdates.com/styles/flatawesome/xenforo/avatars/avatar_m.png' class='avatar avatar-50 photo' height='50' width='50' />            
+                                                </div>
+		<div class="w-comments-item-meta-new">
+        
+        
+                        
+                <table style="width: 89%; line-height: 23px; position: relative; top: 10px;">
+        <tbody>
+        	<tr style="background-color:transparent;">
+				<td valign="top">
+				<div>
+				<div>
+				</div>
+				</div>
+                                <span class="rev_icon new">New</span>				<a id="revname" class="revname65209" href="//www.novelupdates.com/readlist/?uname=Lalloushh" title="View Lalloushh's Public Reading List">Lalloushh</a> rated it <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><br>
+				                <div><a href="//www.novelupdates.com/more-reviews/?uname=Lalloushh">Other reviews by this user</a></div>
+                				</td>
+                
+                                        <td style="text-align: right;" valign="top"><div style="text-align: right;">February 10, 2018</div>
+							<div>Status: <span style="font-weight:bold;" id="stat65209">c1040</span></div>
+						</td>
+                            	</tr>
+                </tbody>
+                </table>
+			<div class="w-comments-item-icon">
+							</div>
+            			<div class="w-comments-item-author"></div>
+            
+			
+		</div>
+		<div class="w-comments-item-text ">
+                
+        
+        All those bad reviews makes me angry. Sigh<p></p>
+the novel is really good. I mean sure it has flaws but lin dong is the best MC for me. And I have read tons of novels.<p></p>
+It starts really slow! Very slow! You have to bare with the  (slow and repeat)  at the starts. Till he gets stronger. Like 400+ chapters. But after that it changes and takes another turn. Like he is older now, not just kids fights.<p></p>
+He doesn't do anything pointless. There is a bigger plot in the story.<p></p>
+<span class="dots">... </span><span class="morelink" href="#" onclick="showtext(this); return false;">more>></span><span style="display:none">
+<div class="sp-wrap sp-wrap-yellow">
+<div class="sp-head" title="Expand">
+Spoiler
+</div>
+<div class="sp-body folded">
+<p>the whole story takes another turn after the MC goes to the sect test battle. Lord marten and little flame becomes human there. He stands out in a uniq way. The fights are sect wars and demons. Its amazing</p>
+<div class="spdiv">[collapse]</div>
+</div>
+</div>
+<p></p>
+There is manhua for this, not a good one tho BUT do me a favor and check it out. </P>
+Just for the sake of seen how they look like. Lol<span class="morelink" href="#" onclick="hidetext(this); return false;"> &lt;&lt;less</span></span>        
+             
+                </div>
+        
+		    </div>
+    
+    	<div class="rev_b1">
+                <span class="rev_bar" title="Like this review">1 Likes · <a href="//www.novelupdates.com/login/" class="rev_help">Like</a></span>
+                
+        <span style="float:right;"><a class="permrev" href="//www.novelupdates.com/fdrev/?comid=65209&sid=840" style="color:#8D8D8D !important;">Permalink</a> | <a href="//www.novelupdates.com/login/" title="Report Review" style="color:#8D8D8D !important;" class="my_popupreport_open">Report</a></span>        
+        
+        </div>
+
+
+    
+
+
+<div class="w-comments-item" id="comment-64819">
+            <div class="rev_left">
+            
+            <img alt='Tresdin' src='https://forum.novelupdates.com/styles/flatawesome/xenforo/avatars/avatar_m.png' class='avatar avatar-50 photo' height='50' width='50' />            
+                                                </div>
+		<div class="w-comments-item-meta-new">
+        
+        
+                        
+                <table style="width: 89%; line-height: 23px; position: relative; top: 10px;">
+        <tbody>
+        	<tr style="background-color:transparent;">
+				<td valign="top">
+				<div>
+				<div>
+				</div>
+				</div>
+                                <span class="rev_icon new">New</span>				<a id="revname" class="revname64819" href="//www.novelupdates.com/readlist/?uname=Tresdin" title="View Tresdin's Public Reading List">Tresdin</a> rated it <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><br>
+				                <div><a href="//www.novelupdates.com/more-reviews/?uname=Tresdin">Other reviews by this user</a></div>
+                				</td>
+                
+                                        <td style="text-align: right;" valign="top"><div style="text-align: right;">February 6, 2018</div>
+							<div>Status: <span style="font-weight:bold;" id="stat64819">c270</span></div>
+						</td>
+                            	</tr>
+                </tbody>
+                </table>
+			<div class="w-comments-item-icon">
+							</div>
+            			<div class="w-comments-item-author"></div>
+            
+			
+		</div>
+		<div class="w-comments-item-text ">
+                
+        
+        update c270:<br />
+MC is a hypocritical ass who thinks he's the hottest sh*t that ever existed. Disgusting amount of plot armor, and I can't honestly look at the characters and pretend they're acting in a way a real human being would. Reading this is a waste of time.<p></p>
+Original c87:<p></p>
+So far I'm not impressed. The MC doesn't really have a personality aside from being diligent with his training. Also whenever our MC does anything there's always some random bystander looking slack-jawed in awe. There's many ways to show how great a<span class="dots">... </span><span class="morelink" href="#" onclick="showtext(this); return false;">more>></span><span style="display:none"> character is. If you use the same one over and over its really boring!<p></p>
+
+<div class="sp-wrap sp-wrap-yellow">
+<div class="sp-head" title="Expand">
+Spoiler
+</div>
+<div class="sp-body folded">
+<p> "Even though he was surrounded, thanks to the power of Mental Energy, everyone's moves was clearly reflected into Lin Dong's mind. Therefore, when Xie Qian suddenly attacked him, Lin Dong had already discovered it. Sword in hand, he precisely directed it towards the sabre's edge. As two thick Yuan Power collided, a powerful eruption occurred as everyone within a few feet of them were forcefully blown back."</p>
+<p>Was this garbage machine translated?</p>
+<div class="spdiv">[collapse]</div>
+</div>
+</div>
+<span class="morelink" href="#" onclick="hidetext(this); return false;"> &lt;&lt;less</span></span>        
+             
+                </div>
+        
+		    </div>
+    
+    	<div class="rev_b1">
+                <span class="rev_bar" title="Like this review">0 Likes · <a href="//www.novelupdates.com/login/" class="rev_help">Like</a></span>
+                
+        <span style="float:right;"><a class="permrev" href="//www.novelupdates.com/fdrev/?comid=64819&sid=840" style="color:#8D8D8D !important;">Permalink</a> | <a href="//www.novelupdates.com/login/" title="Report Review" style="color:#8D8D8D !important;" class="my_popupreport_open">Report</a></span>        
+        
+        </div>
+
+
+    
 
 
 <div class="w-comments-item" id="comment-8623">
@@ -1801,7 +1939,7 @@ It gets 2/5 stars because I can't even care about the MC anymore. All he does is
 		    </div>
     
     	<div class="rev_b1">
-                <span class="rev_bar" title="Like this review">169 Likes · <a href="//www.novelupdates.com/login/" class="rev_help">Like</a></span>
+                <span class="rev_bar" title="Like this review">174 Likes · <a href="//www.novelupdates.com/login/" class="rev_help">Like</a></span>
                 
         <span style="float:right;"><a class="permrev" href="//www.novelupdates.com/fdrev/?comid=8623&sid=840" style="color:#8D8D8D !important;">Permalink</a> | <a href="//www.novelupdates.com/login/" title="Report Review" style="color:#8D8D8D !important;" class="my_popupreport_open">Report</a></span>        
         
@@ -2174,6 +2312,74 @@ This series gets a grudging 3 stars. 4 stars for the *underlying* plot, which is
     
 
 
+<div class="w-comments-item" id="comment-51490">
+            <div class="rev_left">
+            
+            <img alt='VvvV1225' src='https://forum.novelupdates.com/styles/flatawesome/xenforo/avatars/avatar_m.png' class='avatar avatar-50 photo' height='50' width='50' />            
+                                                </div>
+		<div class="w-comments-item-meta-new">
+        
+        
+                        
+                <table style="width: 89%; line-height: 23px; position: relative; top: 10px;">
+        <tbody>
+        	<tr style="background-color:transparent;">
+				<td valign="top">
+				<div>
+				<div>
+				</div>
+				</div>
+                                				<a id="revname" class="revname51490" href="//www.novelupdates.com/readlist/?uname=VvvV1225" title="View VvvV1225's Public Reading List">VvvV1225</a> rated it <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><br>
+				                <div><a href="//www.novelupdates.com/more-reviews/?uname=VvvV1225">Other reviews by this user</a></div>
+                				</td>
+                
+                                        <td style="text-align: right;" valign="top"><div style="text-align: right;">September 14, 2017</div>
+							<div>Status: <span style="font-weight:bold;" id="stat51490">c866</span></div>
+						</td>
+                            	</tr>
+                </tbody>
+                </table>
+			<div class="w-comments-item-icon">
+							</div>
+            			<div class="w-comments-item-author"></div>
+            
+			
+		</div>
+		<div class="w-comments-item-text ">
+                
+        
+        Classic novel with the usual stuff, MC start at the weakest region in the weakest kingdom/continent and make his way to the top, along the journey, lot of people calling the MC "trash, ant, retard... etc" while trying to kill him, because of the usual reasons (greed, or others random reasons), and it will almost always end with "if you dare to kill me, my clan/sect/kingdom/master, will never let you off".<p></p>
+Of course how can we not include the "crowd" with the "oh MC is looking to die, trying to this<span class="dots">... </span><span class="morelink" href="#" onclick="showtext(this); return false;">more>></span><span style="display:none"> and that", few paragraph later (mainly filled with insult toward MC), the enemy (ies) is like "impossible... blah blah", and the crowd "oh he is so strong", "how can it be possible"......."this guys is not to be trifled with".<p></p>
+As for the romance, it's rather complicated and kind of interesting.<p></p>
+
+<div class="sp-wrap sp-wrap-yellow">
+<div class="sp-head" title="Expand">
+Spoiler
+</div>
+<div class="sp-body folded">
+<p>So far, only one women is confirmed, with 1 or 2 more, and nothing more. </p>
+<div class="spdiv">[collapse]</div>
+</div>
+</div>
+<p></p>
+TLDR: Standard stuff from a cultivation novel, however the overall story is rather interesting, hence the 3-stars rating.<p></p>
+PS: if you haven't learn to skip paragraph/chapter, you may not like it.<span class="morelink" href="#" onclick="hidetext(this); return false;"> &lt;&lt;less</span></span>        
+             
+                </div>
+        
+		    </div>
+    
+    	<div class="rev_b1">
+                <span class="rev_bar" title="Like this review">7 Likes · <a href="//www.novelupdates.com/login/" class="rev_help">Like</a></span>
+                
+        <span style="float:right;"><a class="permrev" href="//www.novelupdates.com/fdrev/?comid=51490&sid=840" style="color:#8D8D8D !important;">Permalink</a> | <a href="//www.novelupdates.com/login/" title="Report Review" style="color:#8D8D8D !important;" class="my_popupreport_open">Report</a></span>        
+        
+        </div>
+
+
+    
+
+
 <div class="w-comments-item" id="comment-19766">
             <div class="rev_left">
             
@@ -2347,74 +2553,6 @@ The novel narrative was not the best as it uses all the usual xuanhuan/xianxia d
                 <span class="rev_bar" title="Like this review">7 Likes · <a href="//www.novelupdates.com/login/" class="rev_help">Like</a></span>
                 
         <span style="float:right;"><a class="permrev" href="//www.novelupdates.com/fdrev/?comid=5870&sid=840" style="color:#8D8D8D !important;">Permalink</a> | <a href="//www.novelupdates.com/login/" title="Report Review" style="color:#8D8D8D !important;" class="my_popupreport_open">Report</a></span>        
-        
-        </div>
-
-
-    
-
-
-<div class="w-comments-item" id="comment-51490">
-            <div class="rev_left">
-            
-            <img alt='VvvV1225' src='https://forum.novelupdates.com/styles/flatawesome/xenforo/avatars/avatar_m.png' class='avatar avatar-50 photo' height='50' width='50' />            
-                                                </div>
-		<div class="w-comments-item-meta-new">
-        
-        
-                        
-                <table style="width: 89%; line-height: 23px; position: relative; top: 10px;">
-        <tbody>
-        	<tr style="background-color:transparent;">
-				<td valign="top">
-				<div>
-				<div>
-				</div>
-				</div>
-                                				<a id="revname" class="revname51490" href="//www.novelupdates.com/readlist/?uname=VvvV1225" title="View VvvV1225's Public Reading List">VvvV1225</a> rated it <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><br>
-				                <div><a href="//www.novelupdates.com/more-reviews/?uname=VvvV1225">Other reviews by this user</a></div>
-                				</td>
-                
-                                        <td style="text-align: right;" valign="top"><div style="text-align: right;">September 14, 2017</div>
-							<div>Status: <span style="font-weight:bold;" id="stat51490">c866</span></div>
-						</td>
-                            	</tr>
-                </tbody>
-                </table>
-			<div class="w-comments-item-icon">
-							</div>
-            			<div class="w-comments-item-author"></div>
-            
-			
-		</div>
-		<div class="w-comments-item-text ">
-                
-        
-        Classic novel with the usual stuff, MC start at the weakest region in the weakest kingdom/continent and make his way to the top, along the journey, lot of people calling the MC "trash, ant, retard... etc" while trying to kill him, because of the usual reasons (greed, or others random reasons), and it will almost always end with "if you dare to kill me, my clan/sect/kingdom/master, will never let you off".<p></p>
-Of course how can we not include the "crowd" with the "oh MC is looking to die, trying to this<span class="dots">... </span><span class="morelink" href="#" onclick="showtext(this); return false;">more>></span><span style="display:none"> and that", few paragraph later (mainly filled with insult toward MC), the enemy (ies) is like "impossible... blah blah", and the crowd "oh he is so strong", "how can it be possible"......."this guys is not to be trifled with".<p></p>
-As for the romance, it's rather complicated and kind of interesting.<p></p>
-
-<div class="sp-wrap sp-wrap-yellow">
-<div class="sp-head" title="Expand">
-Spoiler
-</div>
-<div class="sp-body folded">
-<p>So far, only one women is confirmed, with 1 or 2 more, and nothing more. </p>
-<div class="spdiv">[collapse]</div>
-</div>
-</div>
-<p></p>
-TLDR: Standard stuff from a cultivation novel, however the overall story is rather interesting, hence the 3-stars rating.<p></p>
-PS: if you haven't learn to skip paragraph/chapter, you may not like it.<span class="morelink" href="#" onclick="hidetext(this); return false;"> &lt;&lt;less</span></span>        
-             
-                </div>
-        
-		    </div>
-    
-    	<div class="rev_b1">
-                <span class="rev_bar" title="Like this review">6 Likes · <a href="//www.novelupdates.com/login/" class="rev_help">Like</a></span>
-                
-        <span style="float:right;"><a class="permrev" href="//www.novelupdates.com/fdrev/?comid=51490&sid=840" style="color:#8D8D8D !important;">Permalink</a> | <a href="//www.novelupdates.com/login/" title="Report Review" style="color:#8D8D8D !important;" class="my_popupreport_open">Report</a></span>        
         
         </div>
 
@@ -2694,7 +2832,7 @@ The only reason the story get’s a 2/5 is because I think it’s unfair to rate
                 				</td>
                 
                                         <td style="text-align: right;" valign="top"><div style="text-align: right;">February 28, 2016</div>
-							<div>Status: <span style="font-weight:bold;" id="stat4616">c1044</span></div>
+							<div>Status: <span style="font-weight:bold;" id="stat4616">c1074</span></div>
 						</td>
                             	</tr>
                 </tbody>
@@ -2782,7 +2920,7 @@ Update: I jumped the gun on this one, the novel should have stopped after settli
 <div class="w-comments-item" id="comment-1842">
             <div class="rev_left">
             
-            <img alt='Parth37955' src='https://forum.novelupdates.com/data/avatars/m/1/1307.jpg?1513429327' class='avatar avatar-50 photo' height='50' width='50' />            
+            <img alt='Parth37955' src='https://forum.novelupdates.com/data/avatars/m/1/1307.jpg?1515172552' class='avatar avatar-50 photo' height='50' width='50' />            
                                                 </div>
 		<div class="w-comments-item-meta-new">
         
@@ -2825,6 +2963,154 @@ Update: I jumped the gun on this one, the novel should have stopped after settli
                 <span class="rev_bar" title="Like this review">5 Likes · <a href="//www.novelupdates.com/login/" class="rev_help">Like</a></span>
                 
         <span style="float:right;"><a class="permrev" href="//www.novelupdates.com/fdrev/?comid=1842&sid=840" style="color:#8D8D8D !important;">Permalink</a> | <a href="//www.novelupdates.com/login/" title="Report Review" style="color:#8D8D8D !important;" class="my_popupreport_open">Report</a></span>        
+        
+        </div>
+
+
+    
+
+
+<div class="w-comments-item" id="comment-49447">
+            <div class="rev_left">
+            
+            <img alt='Suzaku67' src='https://forum.novelupdates.com/styles/flatawesome/xenforo/avatars/avatar_m.png' class='avatar avatar-50 photo' height='50' width='50' />            
+                                                </div>
+		<div class="w-comments-item-meta-new">
+        
+        
+                        
+                <table style="width: 89%; line-height: 23px; position: relative; top: 10px;">
+        <tbody>
+        	<tr style="background-color:transparent;">
+				<td valign="top">
+				<div>
+				<div>
+				</div>
+				</div>
+                                				<a id="revname" class="revname49447" href="//www.novelupdates.com/readlist/?uname=Suzaku67" title="View Suzaku67's Public Reading List">Suzaku67</a> rated it <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i><br>
+				                <div><a href="//www.novelupdates.com/more-reviews/?uname=Suzaku67">Other reviews by this user</a></div>
+                				</td>
+                
+                                        <td style="text-align: right;" valign="top"><div style="text-align: right;">August 23, 2017</div>
+							<div>Status: <span style="font-weight:bold;" id="stat49447">c843</span></div>
+						</td>
+                            	</tr>
+                </tbody>
+                </table>
+			<div class="w-comments-item-icon">
+							</div>
+            			<div class="w-comments-item-author"></div>
+            
+			
+		</div>
+		<div class="w-comments-item-text ">
+                
+        
+        This is not the best CN i've ever read, but I cant say I didn't enjoy it a ton. If the story had any flaw it would be the long bottomless process of the cultivation system. Heres a basic outline of the progression, and thats excluding half-steps, peak stage, quasi, and other description of the not exactly a certain level. If I dislike anything the most it would probably be this.<p></p>
+Tempered Body (1-9) -&gt; Earthly Yin (early, middle, late) -&gt; Heavenly Yang (early, middle, late) -&gt; Dan Stage (initial, Advanced,<span class="dots">... </span><span class="morelink" href="#" onclick="showtext(this); return false;">more>></span><span style="display:none"> Perfect)  -&gt; Creation (Formtation, Qi, Manifestation) * -&gt; Nirvana (1-9) -&gt; Life (initial, Advanced, Perfect) -&gt; Death (initial, Advanced, Perfect) -&gt; Samasara (?) -&gt; Reincarnation (1-?) <br />
+*Creation Stage is 3 stages in 1, all have an initial an advanced for each for a total of 6<p></p>
+The MC does fight people well above his cultivation throughout the story, thats pretty much his thing. Although I do enjoy sometimes where he just cant accomplish it. For example, the gap between the creation stages and nirvana is massive and impossible to overcome. Even his strongest martial art could only manage to push a nirvana stage back, not even accomplishing to injure him. However he does rely on martial arts commonly to overcome those who are stronger, which turns into a hype fest.<p></p>
+The plot of the story doesn't exist for quite a long time, well rather the major plot of the story. The initial plot is revenge, the person who crippled his father and ruined his life. MC trains to one day be a match for him and ofc kill him. Through the process learns of things which will eventually shape into the real plot. I cant say the beginning is bad, you don't see a real direction is all. Reminds of Coiling Dragon where he just wants to become stronger but has no real set goal later on in the story. Still the first few 100 chapters have to do with his family before he journey's on his own so their is progression just not alot. After the 500 mark you see the story taking alot of shape, by now at like 800s you have a pretty clear idea of where the plot is going. Not predictable but, you at-least aren't in the dark anymore. This novel is a huge investment before you really get to the binge worthy parts, imo.<p></p>
+Heres a few spoilers: I tried to be very soft on the in my review only touching on stuff with no explanations.<p></p>
+
+<div class="sp-wrap sp-wrap-yellow">
+<div class="sp-head" title="Expand">
+Spoiler
+</div>
+<div class="sp-body folded">
+<p>The MC does have a few love interest characters in the story, however he does not have a partner as of chapter 843. I'd say there are 2 girls who are likely to fill the roll but, you never know.</p>
+<div class="spdiv">[collapse]</div>
+</div>
+</div>
+<p></p>
+
+<div class="sp-wrap sp-wrap-yellow">
+<div class="sp-head" title="Expand">
+Spoiler
+</div>
+<div class="sp-body folded">
+<p>The MC does have a few allies that remain and train with him. Although there is a singular MC, his companions stay relevant.</p>
+<div class="spdiv">[collapse]</div>
+</div>
+</div>
+<p></p>
+
+<div class="sp-wrap sp-wrap-yellow">
+<div class="sp-head" title="Expand">
+Spoiler
+</div>
+<div class="sp-body folded">
+<p>There is a cliche progression, of stronger and stronger like DBZ. If you can bare it, give it a go</p>
+<div class="spdiv">[collapse]</div>
+</div>
+</div>
+<p></p>
+I may have come off negative in my review but I do enjoy the story. One has to be honest though, its not that great however is does kill the boredom. After 800+ chapters how could I not be a little biased if I just praised it yknow<span class="morelink" href="#" onclick="hidetext(this); return false;"> &lt;&lt;less</span></span>        
+             
+                </div>
+        
+		    </div>
+    
+    	<div class="rev_b1">
+                <span class="rev_bar" title="Like this review">4 Likes · <a href="//www.novelupdates.com/login/" class="rev_help">Like</a></span>
+                
+        <span style="float:right;"><a class="permrev" href="//www.novelupdates.com/fdrev/?comid=49447&sid=840" style="color:#8D8D8D !important;">Permalink</a> | <a href="//www.novelupdates.com/login/" title="Report Review" style="color:#8D8D8D !important;" class="my_popupreport_open">Report</a></span>        
+        
+        </div>
+
+
+    
+
+
+<div class="w-comments-item" id="comment-48697">
+            <div class="rev_left">
+            
+            <img alt='TheJosh' src='https://forum.novelupdates.com/styles/default/xenforo/avatars/avatar_m.png' class='avatar avatar-50 photo' height='50' width='50' />            
+                                                </div>
+		<div class="w-comments-item-meta-new">
+        
+        
+                        
+                <table style="width: 89%; line-height: 23px; position: relative; top: 10px;">
+        <tbody>
+        	<tr style="background-color:transparent;">
+				<td valign="top">
+				<div>
+				<div>
+				</div>
+				</div>
+                                				<a id="revname" class="revname48697" href="//www.novelupdates.com/readlist/?uname=TheJosh" title="View TheJosh's Public Reading List">TheJosh</a> rated it <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i><br>
+				                <div><a href="//www.novelupdates.com/more-reviews/?uname=TheJosh">Other reviews by this user</a></div>
+                				</td>
+                
+                                        <td style="text-align: right;" valign="top"><div style="text-align: right;">August 16, 2017</div>
+							<div>Status: <span style="font-weight:bold;" id="stat48697">c835</span></div>
+						</td>
+                            	</tr>
+                </tbody>
+                </table>
+			<div class="w-comments-item-icon">
+							</div>
+            			<div class="w-comments-item-author"></div>
+            
+			
+		</div>
+		<div class="w-comments-item-text ">
+                
+        
+        For those of you who gave up before 500 chapters, I feel you guys.<p></p>
+You can't really tell what the plot is until then. It's alluded to around chapter 300-400 I think when a ghost tells him the fate of the world will be in his hands. Not really a spoiler, isn't that what all novels are basically like?<p></p>
+So after chapter 500 or so, a plot actually begins to form, and he gets involved with conflicts that are a very high level. There are a lot of mysteries forming too that<span class="dots">... </span><span class="morelink" href="#" onclick="showtext(this); return false;">more>></span><span style="display:none"> leave you wondering about what happened millions of years ago in the world. And to be quite honest, the plot seems much better than the plot in other novels. Take Martial God Asura. I read maybe 1100 chapters and it's all the same; go somewhere, find heavenly resources, become stronger. Where's the plot? Really is none. It's the same with Martial World.<p></p>
+So do yourselves a favor. When this gets update to 900 chapters or more, read it. You'll start seeing that there is a plot, and after Chapter 800, it gets really interesting.<span class="morelink" href="#" onclick="hidetext(this); return false;"> &lt;&lt;less</span></span>        
+             
+                </div>
+        
+		    </div>
+    
+    	<div class="rev_b1">
+                <span class="rev_bar" title="Like this review">4 Likes · <a href="//www.novelupdates.com/login/" class="rev_help">Like</a></span>
+                
+        <span style="float:right;"><a class="permrev" href="//www.novelupdates.com/fdrev/?comid=48697&sid=840" style="color:#8D8D8D !important;">Permalink</a> | <a href="//www.novelupdates.com/login/" title="Report Review" style="color:#8D8D8D !important;" class="my_popupreport_open">Report</a></span>        
         
         </div>
 
@@ -2917,124 +3203,6 @@ Although reading what I have typed really didn't explain much, it is difficult t
 
     
 
-
-<div class="w-comments-item" id="comment-26736">
-            <div class="rev_left">
-            
-            <img alt='Ignus' src='https://forum.novelupdates.com/data/avatars/m/45/45639.jpg?1493132622' class='avatar avatar-50 photo' height='50' width='50' />            
-                                                </div>
-		<div class="w-comments-item-meta-new">
-        
-        
-                        
-                <table style="width: 89%; line-height: 23px; position: relative; top: 10px;">
-        <tbody>
-        	<tr style="background-color:transparent;">
-				<td valign="top">
-				<div>
-				<div>
-				</div>
-				</div>
-                                				<a id="revname" class="revname26736" href="//www.novelupdates.com/readlist/?uname=Ignus" title="View Ignus's Public Reading List">Ignus</a> rated it <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><br>
-				                <div><a href="//www.novelupdates.com/more-reviews/?uname=Ignus">Other reviews by this user</a></div>
-                				</td>
-                
-                                        <td style="text-align: right;" valign="top"><div style="text-align: right;">December 17, 2016</div>
-							<div>Status: <span style="font-weight:bold;" id="stat26736">c306</span></div>
-						</td>
-                            	</tr>
-                </tbody>
-                </table>
-			<div class="w-comments-item-icon">
-							</div>
-            			<div class="w-comments-item-author"></div>
-            
-			
-		</div>
-		<div class="w-comments-item-text ">
-                
-        
-        First 200 - 250 chapters are good. Plot exists, interesting OP Tool to aid cultivation, and even decent fight scenes.<p></p>
-As soon as MC leaves for his training journey, it's like the author gave up on even writing a story.<p></p>
-The repeat is horrendous. I don't just mean the sequence of events.... but the same descriptive phrases, and the same conversations are repeated over and over again.<br />
-- Bad Guy X with Body of a Bear and shoulders of a Tiger<br />
-- Battle completed... Go Little Flame!<br />
-and on and on. Every<span class="dots">... </span><span class="morelink" href="#" onclick="showtext(this); return false;">more>></span><span style="display:none"> 10 or so chapters are practically Cntrl C, Cntrl V and edit the upgraded power names.<p></p>
-Ok, I kind of expect this from a Xiania and I still read them. But normally there is actual breaks in between the repeat. Things to break up the monotony. <p></p>
-Sadly, this story takes one more step in the wrong direction instead. This is what kills it for me... RANT TIME!<p></p>
-MC fly's past tons of resources and treasures to get to the better stuff... Has he lost all personality that he doesn't even think of or care for his little sister anymore? Doesn't he complain about being poor every 10-20 chapters...<p></p>
-How many dead bodies happen around him without him looting bags, How can he gain new martial arts skills, and there is no mention of his OP item helping him to learn the skills... Its like the item has been completely forgotten about... (This story and other like it suffer when OP item should have all the martial arts in it the character could ever want and needs, but author needs Get Object X to power up to keep story going) <p></p>
-MC steals Item from Ancient Ape, It gets it back, then a few chapters later, its magically in MC's hands again.... Oops<span class="morelink" href="#" onclick="hidetext(this); return false;"> &lt;&lt;less</span></span>        
-             
-                </div>
-        
-		    </div>
-    
-    	<div class="rev_b1">
-                <span class="rev_bar" title="Like this review">4 Likes · <a href="//www.novelupdates.com/login/" class="rev_help">Like</a></span>
-                
-        <span style="float:right;"><a class="permrev" href="//www.novelupdates.com/fdrev/?comid=26736&sid=840" style="color:#8D8D8D !important;">Permalink</a> | <a href="//www.novelupdates.com/login/" title="Report Review" style="color:#8D8D8D !important;" class="my_popupreport_open">Report</a></span>        
-        
-        </div>
-
-
-    
-
-
-<div class="w-comments-item" id="comment-22311">
-            <div class="rev_left">
-            
-            <img alt='This_is_a_good_burger' src='https://forum.novelupdates.com/data/avatars/m/44/44556.jpg?1482294268' class='avatar avatar-50 photo' height='50' width='50' />            
-                                                </div>
-		<div class="w-comments-item-meta-new">
-        
-        
-                        
-                <table style="width: 89%; line-height: 23px; position: relative; top: 10px;">
-        <tbody>
-        	<tr style="background-color:transparent;">
-				<td valign="top">
-				<div>
-				<div>
-				</div>
-				</div>
-                                				<a id="revname" class="revname22311" href="//www.novelupdates.com/readlist/?uname=This_is_a_good_burger" title="View This_is_a_good_burger's Public Reading List">This_is_a_good_burger</a> rated it <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i><br>
-				                <div><a href="//www.novelupdates.com/more-reviews/?uname=This_is_a_good_burger">Other reviews by this user</a></div>
-                				</td>
-                
-                                        <td style="text-align: right;" valign="top"><div style="text-align: right;">October 20, 2016</div>
-							<div>Status: <span style="font-weight:bold;" id="stat22311">c498</span></div>
-						</td>
-                            	</tr>
-                </tbody>
-                </table>
-			<div class="w-comments-item-icon">
-							</div>
-            			<div class="w-comments-item-author"></div>
-            
-			
-		</div>
-		<div class="w-comments-item-text ">
-                
-        
-        Look, every previous review may be true in many ways. But in my opinion this novel can only be described as fun. </P>
-This was one of the first novels I read and I always had fun reading it. I had fun watching him past thru the various problems he had. And in all honesty I like it very much. </P>
-Lin Dong is a good character to cheer for, and every villain that appears you always feel wronged for the character (even though I have to admit he is an asshole<span class="dots">... </span><span class="morelink" href="#" onclick="showtext(this); return false;">more>></span><span style="display:none"> sometimes) <span class="morelink" href="#" onclick="hidetext(this); return false;"> &lt;&lt;less</span></span>        
-             
-                </div>
-        
-		    </div>
-    
-    	<div class="rev_b1">
-                <span class="rev_bar" title="Like this review">4 Likes · <a href="//www.novelupdates.com/login/" class="rev_help">Like</a></span>
-                
-        <span style="float:right;"><a class="permrev" href="//www.novelupdates.com/fdrev/?comid=22311&sid=840" style="color:#8D8D8D !important;">Permalink</a> | <a href="//www.novelupdates.com/login/" title="Report Review" style="color:#8D8D8D !important;" class="my_popupreport_open">Report</a></span>        
-        
-        </div>
-
-
-    
-
     </div>
 
 	<div class="w-comments-pagination">   
@@ -3106,7 +3274,7 @@ Lin Dong is a good character to cheer for, and every villain that appears you al
 	</div>
 
 <span style="font-size: 11px; display: block; width: 0px; margin: -6px auto;">Advertisement</span>
-</div><h3 class="widgettitle_nuf" style="margin-bottom: 5px;">Latest Discussions</h3><div class="nuf_bd"><ul id="nuf_ul"><li id="nuf_li"><div class="messageInfo"><div class="nuf_msgcontent"><a title="Against the Gods" class="nuftrend_link" href="http://forum.novelupdates.com/threads/22830/unread">Against the Gods</a></div><div class="additionalRow muted">0h, 2m ago</div></div></li><li id="nuf_li"><div class="messageInfo"><div class="nuf_msgcontent"><a title="Skeleton Knight, in Another World" class="nuftrend_link" href="http://forum.novelupdates.com/threads/4548/unread">Skeleton Knight, in...</a></div><div class="additionalRow muted">0h, 14m ago</div></div></li><li id="nuf_li"><div class="messageInfo"><div class="nuf_msgcontent"><a title="I Reincarnated For Nothing" class="nuftrend_link" href="http://forum.novelupdates.com/threads/52134/unread">I Reincarnated For...</a></div><div class="additionalRow muted">0h, 28m ago</div></div></li><li id="nuf_li"><div class="messageInfo"><div class="nuf_msgcontent"><a title="True Martial World" class="nuftrend_link" href="http://forum.novelupdates.com/threads/1248/unread">True Martial World</a></div><div class="additionalRow muted">0h, 37m ago</div></div></li><li id="nuf_li"><div class="messageInfo"><div class="nuf_msgcontent"><a title="The Desolate Era" class="nuftrend_link" href="http://forum.novelupdates.com/threads/232/unread">The Desolate Era</a></div><div class="additionalRow muted">0h, 48m ago</div></div></li><li id="nuf_li"><div class="messageInfo"><div class="nuf_msgcontent"><a title="Release that Witch" class="nuftrend_link" href="http://forum.novelupdates.com/threads/11799/unread">Release that Witch</a></div><div class="additionalRow muted">0h, 57m ago</div></div></li><li id="nuf_li"><div class="messageInfo"><div class="nuf_msgcontent"><a title="The Book Eating Magician" class="nuftrend_link" href="http://forum.novelupdates.com/threads/39934/unread">The Book Eating...</a></div><div class="additionalRow muted">1h, 5m ago</div></div></li></ul></div><div class="ad_336" style="margin-top: 25px;">
+</div><h3 class="widgettitle_nuf" style="margin-bottom: 5px;">Latest Discussions</h3><div class="nuf_bd"><ul id="nuf_ul"><li id="nuf_li"><div class="messageInfo"><div class="nuf_msgcontent"><a title="Release that Witch" class="nuftrend_link" href="http://forum.novelupdates.com/threads/11799/unread">Release that Witch</a></div><div class="additionalRow muted">0h, 48m ago</div></div></li><li id="nuf_li"><div class="messageInfo"><div class="nuf_msgcontent"><a title="After Transformation, Mine and Her Wild Fantasy" class="nuftrend_link" href="http://forum.novelupdates.com/threads/6067/unread">After Transformation, Mine...</a></div><div class="additionalRow muted">0h, 49m ago</div></div></li><li id="nuf_li"><div class="messageInfo"><div class="nuf_msgcontent"><a title="Dragon Poor" class="nuftrend_link" href="http://forum.novelupdates.com/threads/43707/unread">Dragon Poor</a></div><div class="additionalRow muted">0h, 52m ago</div></div></li><li id="nuf_li"><div class="messageInfo"><div class="nuf_msgcontent"><a title="Shadow Hack" class="nuftrend_link" href="http://forum.novelupdates.com/threads/55846/unread">Shadow Hack</a></div><div class="additionalRow muted">1h, 2m ago</div></div></li><li id="nuf_li"><div class="messageInfo"><div class="nuf_msgcontent"><a title="Green Skin" class="nuftrend_link" href="http://forum.novelupdates.com/threads/40143/unread">Green Skin</a></div><div class="additionalRow muted">1h, 16m ago</div></div></li><li id="nuf_li"><div class="messageInfo"><div class="nuf_msgcontent"><a title="Virtual World: Peerless White Emperor" class="nuftrend_link" href="http://forum.novelupdates.com/threads/38936/unread">Virtual World: Peerless...</a></div><div class="additionalRow muted">1h, 43m ago</div></div></li><li id="nuf_li"><div class="messageInfo"><div class="nuf_msgcontent"><a title="Mechanical God Emperor" class="nuftrend_link" href="http://forum.novelupdates.com/threads/45533/unread">Mechanical God Emperor</a></div><div class="additionalRow muted">1h, 58m ago</div></div></li></ul></div><div class="ad_336" style="margin-top: 25px;">
 
 	<!-- /8095840/.2_8864.4_novelupdates.com_tier1 --> 
 	<div id='div-gpt-ad-1490579123603-0' style='height:250px; width:300px;'>
@@ -3216,10 +3384,10 @@ $(document).ready(function()
 </script><script type='text/javascript' src='https://www.novelupdates.com/wp-content/plugins/user-meta-display/assets/js/scripts-user_meta_display.js?ver=1.2.2'></script>
 <script type='text/javascript' src='https://www.novelupdates.com/wp-content/plugins/yet-another-stars-rating/js/jquery.rateit.min.js?ver=1.0.22'></script>
 <script type='text/javascript' src='https://www.novelupdates.com/wp-content/plugins/yet-another-stars-rating/js/yasr-front.js?ver=1.0.1'></script>
-<script type='text/javascript' src='https://www.novelupdates.com/wp-content/themes/ndupdates/js/jquery.easing.min.js?ver=4.9'></script>
+<script type='text/javascript' src='https://www.novelupdates.com/wp-content/themes/ndupdates/js/jquery.easing.min.js?ver=4.9.2'></script>
 <script type='text/javascript' src='https://www.novelupdates.com/wp-content/themes/ndupdates/js/us.core.js?ver=3.61'></script>
 <script type='text/javascript' src='https://www.novelupdates.com/wp-content/themes/ndupdates/js/us.widgets.js?ver=3.61'></script>
-<script type='text/javascript' src='https://www.novelupdates.com/wp-includes/js/comment-reply.min.js?ver=4.9'></script>
-<script type='text/javascript' src='https://www.novelupdates.com/wp-includes/js/wp-embed.min.js?ver=4.9'></script>
+<script type='text/javascript' src='https://www.novelupdates.com/wp-includes/js/comment-reply.min.js?ver=4.9.2'></script>
+<script type='text/javascript' src='https://www.novelupdates.com/wp-includes/js/wp-embed.min.js?ver=4.9.2'></script>
 </body>
 </html>
